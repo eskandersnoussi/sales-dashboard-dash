@@ -1,0 +1,43 @@
+/* Dash loads every file in /assets automatically */
+body { margin: 0; background: #EEF2F4; font-family: Inter, "Segoe UI", Arial, sans-serif; color: #1D2730; }
+.page { max-width: 1400px; margin: 0 auto; padding: 28px 28px 20px; }
+
+.header { display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; flex-wrap: wrap; margin-bottom: 18px; }
+.header h1 { margin: 0; font-size: 30px; font-weight: 700; letter-spacing: -0.01em; }
+.subtitle { color: #5B6770; font-size: 14px; margin-top: 4px; }
+
+.filters { display: flex; gap: 12px; align-items: flex-end; flex-wrap: wrap; }
+.filters label { display: block; font-size: 12px; color: #5B6770; margin-bottom: 4px; }
+.dd { min-width: 200px; font-size: 13px; }
+.dd-year { min-width: 110px; }
+.reset { height: 36px; padding: 0 16px; border: 1px solid #C9D2D8; border-radius: 8px; background: white;
+         font-family: inherit; font-size: 13px; color: #16323F; cursor: pointer; }
+.reset:hover { border-color: #1F8A7A; color: #1F8A7A; }
+
+.card { background: white; border: 1px solid #DCE3E7; border-radius: 12px; padding: 18px 20px; min-width: 0; }
+.card-title { font-size: 16px; font-weight: 600; }
+.card-note { font-size: 12.5px; color: #5B6770; margin: 3px 0 8px; }
+
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 14px; }
+.kpi-label { font-size: 13px; color: #5B6770; }
+.kpi-value { font-size: 32px; font-weight: 600; margin: 8px 0 6px; font-variant-numeric: tabular-nums; }
+.kpi-change { font-size: 13px; color: #5B6770; font-weight: 500; }
+.kpi-change.up { color: #1E8E4E; }
+.kpi-change.down { color: #C0392B; }
+
+.row { display: grid; gap: 14px; margin-bottom: 14px; }
+.row-wide { grid-template-columns: 1.7fr 1fr; }
+.row-split { grid-template-columns: 1fr 1.6fr; }
+
+.footer { color: #5B6770; font-size: 12px; text-align: center; padding: 6px 0 4px; }
+
+@media (max-width: 900px) {
+  .kpis { grid-template-columns: repeat(2, 1fr); }
+  .row-wide, .row-split { grid-template-columns: 1fr; }
+}
+
+/* selected values in the multi-select filters */
+.dd.Select--multi .Select-value { background: #E6F4F1 !important; border-color: #9FD3C9 !important; color: #16323F !important; border-radius: 6px; }
+.dd.Select--multi .Select-value-icon { border-right-color: #9FD3C9 !important; }
+.dd.Select--multi .Select-value-icon:hover { background: #CDEBE5; color: #16323F; }
+.dd .Select-control { border-color: #C9D2D8; border-radius: 8px; }

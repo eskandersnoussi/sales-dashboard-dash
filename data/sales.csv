@@ -1,0 +1,1801 @@
+month,region,category,product,units,revenue,gross_profit
+2024-01-01,Oslo,Jackets,Trail Pro Shell Jacket,56,136826.44,65518.15
+2024-01-01,Vestland,Jackets,Trail Pro Shell Jacket,37,89342.88,41274.75
+2024-01-01,Rogaland,Jackets,Trail Pro Shell Jacket,27,65279.69,31373.16
+2024-01-01,Trøndelag,Jackets,Trail Pro Shell Jacket,21,51010.53,23515.17
+2024-01-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,44,105969.4,49127.33
+2024-01-01,Oslo,Jackets,Vidde Down Parka,25,97553.97,48150.82
+2024-01-01,Vestland,Jackets,Vidde Down Parka,9,35986.3,17489.96
+2024-01-01,Rogaland,Jackets,Vidde Down Parka,10,39071.66,19577.4
+2024-01-01,Trøndelag,Jackets,Vidde Down Parka,11,43147.01,21236.58
+2024-01-01,"Online, rest of Norway",Jackets,Vidde Down Parka,12,46651.25,23147.72
+2024-01-01,Oslo,Jackets,Breeze Wind Jacket,43,53414.53,22147.45
+2024-01-01,Vestland,Jackets,Breeze Wind Jacket,19,23456.38,10042.46
+2024-01-01,Rogaland,Jackets,Breeze Wind Jacket,24,30106.78,12793.1
+2024-01-01,Trøndelag,Jackets,Breeze Wind Jacket,18,22401.94,9321.81
+2024-01-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,25,30665.39,12587.54
+2024-01-01,Oslo,Footwear,Fjell GTX Hiking Boot,23,48966.51,19857.09
+2024-01-01,Vestland,Footwear,Fjell GTX Hiking Boot,24,51476.42,20463.17
+2024-01-01,Rogaland,Footwear,Fjell GTX Hiking Boot,25,52809.34,20962.46
+2024-01-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,18,37959.84,15187.73
+2024-01-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,20,42923.16,17135.44
+2024-01-01,Oslo,Footwear,Sti Trail Runner,36,50673.17,17714.37
+2024-01-01,Vestland,Footwear,Sti Trail Runner,34,48852.83,18044.01
+2024-01-01,Rogaland,Footwear,Sti Trail Runner,27,38459.71,13788.61
+2024-01-01,Trøndelag,Footwear,Sti Trail Runner,17,24735.16,8947.0
+2024-01-01,"Online, rest of Norway",Footwear,Sti Trail Runner,24,34725.89,12368.93
+2024-01-01,Oslo,Footwear,Vinter Insulated Boot,24,45089.05,17051.82
+2024-01-01,Vestland,Footwear,Vinter Insulated Boot,10,18395.37,7180.26
+2024-01-01,Rogaland,Footwear,Vinter Insulated Boot,13,24372.2,9041.24
+2024-01-01,Trøndelag,Footwear,Vinter Insulated Boot,8,14577.99,5387.11
+2024-01-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,20,35832.05,13339.61
+2024-01-01,Oslo,Backpacks,Tind 40L Backpack,40,51597.47,25664.08
+2024-01-01,Vestland,Backpacks,Tind 40L Backpack,32,38721.44,18296.52
+2024-01-01,Rogaland,Backpacks,Tind 40L Backpack,18,22310.21,10456.27
+2024-01-01,Trøndelag,Backpacks,Tind 40L Backpack,11,13407.84,6240.4
+2024-01-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,23,29566.72,13932.56
+2024-01-01,Oslo,Backpacks,Dag 22L Daypack,39,25809.96,12108.9
+2024-01-01,Vestland,Backpacks,Dag 22L Daypack,27,18178.67,8154.78
+2024-01-01,Rogaland,Backpacks,Dag 22L Daypack,21,13788.91,6046.42
+2024-01-01,Trøndelag,Backpacks,Dag 22L Daypack,20,13431.41,5994.46
+2024-01-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,32,21926.24,9902.97
+2024-01-01,Oslo,Backpacks,Ekspedisjon 65L Pack,19,43282.18,19700.67
+2024-01-01,Vestland,Backpacks,Ekspedisjon 65L Pack,8,17725.49,7851.87
+2024-01-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,6,13146.81,5745.94
+2024-01-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,5,11050.22,4959.61
+2024-01-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,8,17833.12,8241.64
+2024-01-01,Oslo,Camping gear,Lofoten 2-person Tent,5,22182.57,7213.51
+2024-01-01,Vestland,Camping gear,Lofoten 2-person Tent,5,21598.21,7002.41
+2024-01-01,Rogaland,Camping gear,Lofoten 2-person Tent,4,17125.73,5859.12
+2024-01-01,Trøndelag,Camping gear,Lofoten 2-person Tent,1,4330.5,1438.83
+2024-01-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,4,17319.86,5700.26
+2024-01-01,Oslo,Camping gear,Polar Sleeping Bag,7,13456.44,4866.81
+2024-01-01,Vestland,Camping gear,Polar Sleeping Bag,8,15419.17,5783.28
+2024-01-01,Rogaland,Camping gear,Polar Sleeping Bag,5,9829.28,3557.14
+2024-01-01,Trøndelag,Camping gear,Polar Sleeping Bag,9,17305.01,6248.81
+2024-01-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,9,17604.77,6296.07
+2024-01-01,Oslo,Camping gear,Leir Camping Stove,18,13722.06,5349.96
+2024-01-01,Vestland,Camping gear,Leir Camping Stove,19,14824.79,5682.89
+2024-01-01,Rogaland,Camping gear,Leir Camping Stove,15,11506.33,4311.42
+2024-01-01,Trøndelag,Camping gear,Leir Camping Stove,8,5981.37,2269.88
+2024-01-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,24,18820.99,7243.17
+2024-01-01,Oslo,Accessories,Merino Wool Beanie,164,47071.27,26050.75
+2024-01-01,Vestland,Accessories,Merino Wool Beanie,116,32451.41,17956.93
+2024-01-01,Rogaland,Accessories,Merino Wool Beanie,110,32700.66,17243.2
+2024-01-01,Trøndelag,Accessories,Merino Wool Beanie,94,26596.04,15059.62
+2024-01-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,137,39383.3,22013.35
+2024-01-01,Oslo,Accessories,Trekking Poles (pair),60,34988.17,17588.67
+2024-01-01,Vestland,Accessories,Trekking Poles (pair),39,22606.72,11390.03
+2024-01-01,Rogaland,Accessories,Trekking Poles (pair),49,28415.43,14628.68
+2024-01-01,Trøndelag,Accessories,Trekking Poles (pair),29,16902.58,8594.01
+2024-01-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),39,22588.28,10841.58
+2024-01-01,Oslo,Accessories,Thermal Bottle 0.75 L,104,35265.85,18818.54
+2024-01-01,Vestland,Accessories,Thermal Bottle 0.75 L,75,24761.05,12671.24
+2024-01-01,Rogaland,Accessories,Thermal Bottle 0.75 L,55,18698.7,9448.59
+2024-01-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,41,14030.39,7315.98
+2024-01-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,63,21502.21,11023.57
+2024-02-01,Oslo,Jackets,Trail Pro Shell Jacket,31,75824.35,35356.81
+2024-02-01,Vestland,Jackets,Trail Pro Shell Jacket,28,67505.47,32253.95
+2024-02-01,Rogaland,Jackets,Trail Pro Shell Jacket,24,56638.57,25377.7
+2024-02-01,Trøndelag,Jackets,Trail Pro Shell Jacket,7,17261.0,8127.62
+2024-02-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,36,84960.07,39221.95
+2024-02-01,Oslo,Jackets,Vidde Down Parka,13,51652.74,24610.19
+2024-02-01,Vestland,Jackets,Vidde Down Parka,4,15594.84,7621.44
+2024-02-01,Rogaland,Jackets,Vidde Down Parka,9,35544.07,17297.19
+2024-02-01,Trøndelag,Jackets,Vidde Down Parka,8,30995.62,15236.51
+2024-02-01,"Online, rest of Norway",Jackets,Vidde Down Parka,10,38902.34,19052.29
+2024-02-01,Oslo,Jackets,Breeze Wind Jacket,29,35395.71,14249.85
+2024-02-01,Vestland,Jackets,Breeze Wind Jacket,17,21175.65,9238.36
+2024-02-01,Rogaland,Jackets,Breeze Wind Jacket,14,17612.39,7336.98
+2024-02-01,Trøndelag,Jackets,Breeze Wind Jacket,15,18949.21,7904.67
+2024-02-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,24,30034.14,13269.7
+2024-02-01,Oslo,Footwear,Fjell GTX Hiking Boot,31,65946.5,26685.0
+2024-02-01,Vestland,Footwear,Fjell GTX Hiking Boot,20,41973.88,16934.04
+2024-02-01,Rogaland,Footwear,Fjell GTX Hiking Boot,23,49321.66,19991.29
+2024-02-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,18,38068.14,15365.51
+2024-02-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,18,37154.49,14762.04
+2024-02-01,Oslo,Footwear,Sti Trail Runner,32,45735.03,15969.85
+2024-02-01,Vestland,Footwear,Sti Trail Runner,21,31487.32,11434.03
+2024-02-01,Rogaland,Footwear,Sti Trail Runner,18,25387.43,9085.13
+2024-02-01,Trøndelag,Footwear,Sti Trail Runner,17,24870.57,9015.12
+2024-02-01,"Online, rest of Norway",Footwear,Sti Trail Runner,20,29307.32,10894.36
+2024-02-01,Oslo,Footwear,Vinter Insulated Boot,23,43036.9,16291.44
+2024-02-01,Vestland,Footwear,Vinter Insulated Boot,14,26243.71,9998.83
+2024-02-01,Rogaland,Footwear,Vinter Insulated Boot,12,21876.53,8156.61
+2024-02-01,Trøndelag,Footwear,Vinter Insulated Boot,15,26833.66,10326.79
+2024-02-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,17,30012.19,11225.22
+2024-02-01,Oslo,Backpacks,Tind 40L Backpack,30,37682.77,17647.42
+2024-02-01,Vestland,Backpacks,Tind 40L Backpack,25,31380.89,14451.52
+2024-02-01,Rogaland,Backpacks,Tind 40L Backpack,21,26433.76,12562.15
+2024-02-01,Trøndelag,Backpacks,Tind 40L Backpack,16,19787.51,9108.13
+2024-02-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,24,29792.6,13753.62
+2024-02-01,Oslo,Backpacks,Dag 22L Daypack,43,28802.66,12762.75
+2024-02-01,Vestland,Backpacks,Dag 22L Daypack,27,18026.49,8005.99
+2024-02-01,Rogaland,Backpacks,Dag 22L Daypack,26,17012.11,7645.04
+2024-02-01,Trøndelag,Backpacks,Dag 22L Daypack,17,11411.5,4985.76
+2024-02-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,36,24000.71,10878.83
+2024-02-01,Oslo,Backpacks,Ekspedisjon 65L Pack,7,15266.18,6604.61
+2024-02-01,Vestland,Backpacks,Ekspedisjon 65L Pack,8,17653.99,7686.88
+2024-02-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,10,21634.0,9621.39
+2024-02-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,7,15401.47,6973.33
+2024-02-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,4,8811.9,3845.32
+2024-02-01,Oslo,Camping gear,Lofoten 2-person Tent,7,30352.16,9978.17
+2024-02-01,Vestland,Camping gear,Lofoten 2-person Tent,1,4390.63,1405.6
+2024-02-01,Rogaland,Camping gear,Lofoten 2-person Tent,4,17586.95,5602.81
+2024-02-01,Trøndelag,Camping gear,Lofoten 2-person Tent,3,13402.9,4325.32
+2024-02-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,1,4296.77,1422.96
+2024-02-01,Oslo,Camping gear,Polar Sleeping Bag,10,18797.95,6764.88
+2024-02-01,Vestland,Camping gear,Polar Sleeping Bag,10,18909.93,6921.37
+2024-02-01,Rogaland,Camping gear,Polar Sleeping Bag,12,22991.99,8408.03
+2024-02-01,Trøndelag,Camping gear,Polar Sleeping Bag,5,9315.42,3298.1
+2024-02-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,5,9614.92,3390.01
+2024-02-01,Oslo,Camping gear,Leir Camping Stove,18,13585.23,5068.37
+2024-02-01,Vestland,Camping gear,Leir Camping Stove,11,8513.7,3234.32
+2024-02-01,Rogaland,Camping gear,Leir Camping Stove,7,5363.1,2029.39
+2024-02-01,Trøndelag,Camping gear,Leir Camping Stove,10,7696.49,2969.55
+2024-02-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,17,13137.64,4973.57
+2024-02-01,Oslo,Accessories,Merino Wool Beanie,159,46669.41,26082.46
+2024-02-01,Vestland,Accessories,Merino Wool Beanie,77,22678.26,12769.33
+2024-02-01,Rogaland,Accessories,Merino Wool Beanie,84,24399.83,13669.74
+2024-02-01,Trøndelag,Accessories,Merino Wool Beanie,65,18743.59,10124.83
+2024-02-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,98,27976.79,16017.73
+2024-02-01,Oslo,Accessories,Trekking Poles (pair),58,34033.07,17167.15
+2024-02-01,Vestland,Accessories,Trekking Poles (pair),28,16455.01,8332.31
+2024-02-01,Rogaland,Accessories,Trekking Poles (pair),34,20283.21,10417.3
+2024-02-01,Trøndelag,Accessories,Trekking Poles (pair),30,17434.15,8752.43
+2024-02-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),42,24426.05,11894.84
+2024-02-01,Oslo,Accessories,Thermal Bottle 0.75 L,94,31289.17,16221.21
+2024-02-01,Vestland,Accessories,Thermal Bottle 0.75 L,37,12624.63,6616.18
+2024-02-01,Rogaland,Accessories,Thermal Bottle 0.75 L,55,18905.84,10039.3
+2024-02-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,44,14700.67,7478.67
+2024-02-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,59,20370.88,10825.9
+2024-03-01,Oslo,Jackets,Trail Pro Shell Jacket,37,89086.83,41386.87
+2024-03-01,Vestland,Jackets,Trail Pro Shell Jacket,25,59796.04,28279.2
+2024-03-01,Rogaland,Jackets,Trail Pro Shell Jacket,21,50935.59,23394.17
+2024-03-01,Trøndelag,Jackets,Trail Pro Shell Jacket,13,30834.65,13878.78
+2024-03-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,27,66437.55,29556.43
+2024-03-01,Oslo,Jackets,Vidde Down Parka,20,76056.05,36984.37
+2024-03-01,Vestland,Jackets,Vidde Down Parka,6,23881.61,11623.36
+2024-03-01,Rogaland,Jackets,Vidde Down Parka,14,54195.92,26734.77
+2024-03-01,Trøndelag,Jackets,Vidde Down Parka,8,30319.77,14735.77
+2024-03-01,"Online, rest of Norway",Jackets,Vidde Down Parka,12,46643.88,22394.78
+2024-03-01,Oslo,Jackets,Breeze Wind Jacket,44,53446.4,21568.18
+2024-03-01,Vestland,Jackets,Breeze Wind Jacket,16,19988.78,8390.59
+2024-03-01,Rogaland,Jackets,Breeze Wind Jacket,10,12753.9,5310.43
+2024-03-01,Trøndelag,Jackets,Breeze Wind Jacket,8,9881.45,4103.91
+2024-03-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,18,22414.82,9611.8
+2024-03-01,Oslo,Footwear,Fjell GTX Hiking Boot,41,87741.27,34018.6
+2024-03-01,Vestland,Footwear,Fjell GTX Hiking Boot,24,50866.96,20993.11
+2024-03-01,Rogaland,Footwear,Fjell GTX Hiking Boot,33,69857.52,27229.33
+2024-03-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,13,27853.16,11002.63
+2024-03-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,33,71658.92,28967.07
+2024-03-01,Oslo,Footwear,Sti Trail Runner,39,56089.6,19842.12
+2024-03-01,Vestland,Footwear,Sti Trail Runner,29,41803.7,15173.88
+2024-03-01,Rogaland,Footwear,Sti Trail Runner,25,36135.86,13125.55
+2024-03-01,Trøndelag,Footwear,Sti Trail Runner,15,21293.67,7652.25
+2024-03-01,"Online, rest of Norway",Footwear,Sti Trail Runner,43,62619.55,23084.21
+2024-03-01,Oslo,Footwear,Vinter Insulated Boot,27,49756.17,17799.15
+2024-03-01,Vestland,Footwear,Vinter Insulated Boot,23,41042.12,15736.92
+2024-03-01,Rogaland,Footwear,Vinter Insulated Boot,24,43514.69,16988.83
+2024-03-01,Trøndelag,Footwear,Vinter Insulated Boot,16,29331.93,11237.09
+2024-03-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,21,38478.1,14222.58
+2024-03-01,Oslo,Backpacks,Tind 40L Backpack,42,53305.83,25071.08
+2024-03-01,Vestland,Backpacks,Tind 40L Backpack,24,30134.82,14338.09
+2024-03-01,Rogaland,Backpacks,Tind 40L Backpack,24,30544.21,14237.39
+2024-03-01,Trøndelag,Backpacks,Tind 40L Backpack,22,27725.86,12632.21
+2024-03-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,29,36497.79,17370.78
+2024-03-01,Oslo,Backpacks,Dag 22L Daypack,59,39303.91,17515.98
+2024-03-01,Vestland,Backpacks,Dag 22L Daypack,36,24763.38,11436.55
+2024-03-01,Rogaland,Backpacks,Dag 22L Daypack,34,23026.04,10386.83
+2024-03-01,Trøndelag,Backpacks,Dag 22L Daypack,35,23404.02,10378.2
+2024-03-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,44,29450.56,13342.93
+2024-03-01,Oslo,Backpacks,Ekspedisjon 65L Pack,18,40450.99,17933.29
+2024-03-01,Vestland,Backpacks,Ekspedisjon 65L Pack,9,19836.89,8439.31
+2024-03-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,8,17939.71,7560.69
+2024-03-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,8,17625.33,7754.93
+2024-03-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,13,29236.68,13038.42
+2024-03-01,Oslo,Camping gear,Lofoten 2-person Tent,14,62362.16,20641.19
+2024-03-01,Vestland,Camping gear,Lofoten 2-person Tent,4,17298.23,5837.68
+2024-03-01,Rogaland,Camping gear,Lofoten 2-person Tent,1,4283.1,1426.29
+2024-03-01,Trøndelag,Camping gear,Lofoten 2-person Tent,3,13019.57,4159.59
+2024-03-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,6,26070.68,8677.76
+2024-03-01,Oslo,Camping gear,Polar Sleeping Bag,19,35800.23,13056.47
+2024-03-01,Vestland,Camping gear,Polar Sleeping Bag,11,21236.09,7766.54
+2024-03-01,Rogaland,Camping gear,Polar Sleeping Bag,10,19481.61,7086.27
+2024-03-01,Trøndelag,Camping gear,Polar Sleeping Bag,12,23034.19,8350.69
+2024-03-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,6,11582.36,4107.12
+2024-03-01,Oslo,Camping gear,Leir Camping Stove,34,25945.35,10208.52
+2024-03-01,Vestland,Camping gear,Leir Camping Stove,14,10380.23,3873.94
+2024-03-01,Rogaland,Camping gear,Leir Camping Stove,18,14088.12,5335.83
+2024-03-01,Trøndelag,Camping gear,Leir Camping Stove,16,12267.86,4653.51
+2024-03-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,26,19209.13,7007.26
+2024-03-01,Oslo,Accessories,Merino Wool Beanie,128,37520.02,20831.26
+2024-03-01,Vestland,Accessories,Merino Wool Beanie,81,23866.68,13175.0
+2024-03-01,Rogaland,Accessories,Merino Wool Beanie,86,24985.24,13742.25
+2024-03-01,Trøndelag,Accessories,Merino Wool Beanie,54,15573.64,8521.89
+2024-03-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,113,32337.11,18659.54
+2024-03-01,Oslo,Accessories,Trekking Poles (pair),56,32354.74,15805.55
+2024-03-01,Vestland,Accessories,Trekking Poles (pair),33,18878.12,9423.04
+2024-03-01,Rogaland,Accessories,Trekking Poles (pair),36,20965.15,10559.35
+2024-03-01,Trøndelag,Accessories,Trekking Poles (pair),23,13540.32,6661.81
+2024-03-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),27,15353.91,7628.4
+2024-03-01,Oslo,Accessories,Thermal Bottle 0.75 L,85,28712.31,15387.8
+2024-03-01,Vestland,Accessories,Thermal Bottle 0.75 L,53,18150.22,9803.14
+2024-03-01,Rogaland,Accessories,Thermal Bottle 0.75 L,49,16350.3,8754.66
+2024-03-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,27,9071.59,4756.87
+2024-03-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,57,19033.77,10349.21
+2024-04-01,Oslo,Jackets,Trail Pro Shell Jacket,34,81499.12,38162.13
+2024-04-01,Vestland,Jackets,Trail Pro Shell Jacket,34,80370.27,36406.14
+2024-04-01,Rogaland,Jackets,Trail Pro Shell Jacket,24,59154.89,27778.09
+2024-04-01,Trøndelag,Jackets,Trail Pro Shell Jacket,22,53779.63,24821.0
+2024-04-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,28,67025.34,31854.44
+2024-04-01,Oslo,Jackets,Vidde Down Parka,20,76062.05,36387.74
+2024-04-01,Vestland,Jackets,Vidde Down Parka,9,34405.81,16867.81
+2024-04-01,Rogaland,Jackets,Vidde Down Parka,11,41546.68,20751.72
+2024-04-01,Trøndelag,Jackets,Vidde Down Parka,7,26890.07,13439.48
+2024-04-01,"Online, rest of Norway",Jackets,Vidde Down Parka,11,42278.91,20696.13
+2024-04-01,Oslo,Jackets,Breeze Wind Jacket,26,32866.89,13983.62
+2024-04-01,Vestland,Jackets,Breeze Wind Jacket,22,28145.59,11732.5
+2024-04-01,Rogaland,Jackets,Breeze Wind Jacket,25,31293.8,12985.74
+2024-04-01,Trøndelag,Jackets,Breeze Wind Jacket,16,19953.3,8580.44
+2024-04-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,29,36734.28,15447.06
+2024-04-01,Oslo,Footwear,Fjell GTX Hiking Boot,54,114670.99,47706.35
+2024-04-01,Vestland,Footwear,Fjell GTX Hiking Boot,32,67516.07,26793.31
+2024-04-01,Rogaland,Footwear,Fjell GTX Hiking Boot,28,60258.08,23343.68
+2024-04-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,27,56499.88,22624.13
+2024-04-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,34,72912.28,29604.63
+2024-04-01,Oslo,Footwear,Sti Trail Runner,56,77459.86,27691.73
+2024-04-01,Vestland,Footwear,Sti Trail Runner,27,38615.7,14013.97
+2024-04-01,Rogaland,Footwear,Sti Trail Runner,28,40341.4,14632.13
+2024-04-01,Trøndelag,Footwear,Sti Trail Runner,24,34279.26,12202.13
+2024-04-01,"Online, rest of Norway",Footwear,Sti Trail Runner,39,56566.11,20757.82
+2024-04-01,Oslo,Footwear,Vinter Insulated Boot,35,64042.65,24697.37
+2024-04-01,Vestland,Footwear,Vinter Insulated Boot,21,39021.15,14908.14
+2024-04-01,Rogaland,Footwear,Vinter Insulated Boot,13,24831.95,9395.79
+2024-04-01,Trøndelag,Footwear,Vinter Insulated Boot,15,27686.18,10409.92
+2024-04-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,32,59320.48,23404.21
+2024-04-01,Oslo,Backpacks,Tind 40L Backpack,49,60832.89,28356.81
+2024-04-01,Vestland,Backpacks,Tind 40L Backpack,36,45685.1,20727.69
+2024-04-01,Rogaland,Backpacks,Tind 40L Backpack,31,39016.41,17924.39
+2024-04-01,Trøndelag,Backpacks,Tind 40L Backpack,18,22857.63,10417.62
+2024-04-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,58,72984.52,34684.22
+2024-04-01,Oslo,Backpacks,Dag 22L Daypack,76,52025.94,23985.74
+2024-04-01,Vestland,Backpacks,Dag 22L Daypack,49,32712.2,14204.65
+2024-04-01,Rogaland,Backpacks,Dag 22L Daypack,42,27638.27,12520.9
+2024-04-01,Trøndelag,Backpacks,Dag 22L Daypack,33,22591.5,10055.86
+2024-04-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,48,33051.6,15052.49
+2024-04-01,Oslo,Backpacks,Ekspedisjon 65L Pack,20,43457.45,19573.51
+2024-04-01,Vestland,Backpacks,Ekspedisjon 65L Pack,5,11022.06,4793.39
+2024-04-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,12,26867.14,11722.51
+2024-04-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,11,24963.74,11023.88
+2024-04-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,17,38300.01,17072.65
+2024-04-01,Oslo,Camping gear,Lofoten 2-person Tent,8,33961.21,11260.31
+2024-04-01,Vestland,Camping gear,Lofoten 2-person Tent,8,34764.8,11538.93
+2024-04-01,Rogaland,Camping gear,Lofoten 2-person Tent,11,49230.95,16362.32
+2024-04-01,Trøndelag,Camping gear,Lofoten 2-person Tent,8,33890.01,11208.19
+2024-04-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,8,35084.85,11708.44
+2024-04-01,Oslo,Camping gear,Polar Sleeping Bag,33,64465.88,22831.99
+2024-04-01,Vestland,Camping gear,Polar Sleeping Bag,15,29101.53,10514.0
+2024-04-01,Rogaland,Camping gear,Polar Sleeping Bag,13,24852.32,8755.07
+2024-04-01,Trøndelag,Camping gear,Polar Sleeping Bag,5,9699.68,3411.56
+2024-04-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,24,45921.51,16325.23
+2024-04-01,Oslo,Camping gear,Leir Camping Stove,42,32079.22,12311.69
+2024-04-01,Vestland,Camping gear,Leir Camping Stove,25,19749.26,7524.58
+2024-04-01,Rogaland,Camping gear,Leir Camping Stove,19,14761.35,5385.22
+2024-04-01,Trøndelag,Camping gear,Leir Camping Stove,16,12125.26,4728.5
+2024-04-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,36,27045.87,9712.24
+2024-04-01,Oslo,Accessories,Merino Wool Beanie,156,44947.7,25254.66
+2024-04-01,Vestland,Accessories,Merino Wool Beanie,75,21034.19,11711.63
+2024-04-01,Rogaland,Accessories,Merino Wool Beanie,79,23260.12,12495.03
+2024-04-01,Trøndelag,Accessories,Merino Wool Beanie,51,14962.9,7951.87
+2024-04-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,120,34931.13,19171.79
+2024-04-01,Oslo,Accessories,Trekking Poles (pair),53,29946.59,14732.75
+2024-04-01,Vestland,Accessories,Trekking Poles (pair),30,17008.5,8381.05
+2024-04-01,Rogaland,Accessories,Trekking Poles (pair),42,23884.03,11791.94
+2024-04-01,Trøndelag,Accessories,Trekking Poles (pair),18,10589.4,5279.26
+2024-04-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),49,28110.96,13733.09
+2024-04-01,Oslo,Accessories,Thermal Bottle 0.75 L,74,24600.5,12833.72
+2024-04-01,Vestland,Accessories,Thermal Bottle 0.75 L,52,17610.4,9117.13
+2024-04-01,Rogaland,Accessories,Thermal Bottle 0.75 L,53,17538.78,8889.9
+2024-04-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,31,10583.72,5426.15
+2024-04-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,59,19249.18,10198.31
+2024-05-01,Oslo,Jackets,Trail Pro Shell Jacket,27,63814.94,29147.24
+2024-05-01,Vestland,Jackets,Trail Pro Shell Jacket,24,58306.01,27651.85
+2024-05-01,Rogaland,Jackets,Trail Pro Shell Jacket,18,44536.13,20485.05
+2024-05-01,Trøndelag,Jackets,Trail Pro Shell Jacket,18,44325.55,20240.62
+2024-05-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,20,48685.54,22971.56
+2024-05-01,Oslo,Jackets,Vidde Down Parka,11,42545.27,20879.95
+2024-05-01,Vestland,Jackets,Vidde Down Parka,7,27411.28,13747.3
+2024-05-01,Rogaland,Jackets,Vidde Down Parka,9,34985.17,17514.57
+2024-05-01,Trøndelag,Jackets,Vidde Down Parka,9,34861.5,17041.42
+2024-05-01,"Online, rest of Norway",Jackets,Vidde Down Parka,11,42116.31,20427.9
+2024-05-01,Oslo,Jackets,Breeze Wind Jacket,22,27364.44,11438.71
+2024-05-01,Vestland,Jackets,Breeze Wind Jacket,13,15824.22,6746.1
+2024-05-01,Rogaland,Jackets,Breeze Wind Jacket,13,16719.26,7189.41
+2024-05-01,Trøndelag,Jackets,Breeze Wind Jacket,6,7508.03,3171.16
+2024-05-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,24,29289.06,12334.65
+2024-05-01,Oslo,Footwear,Fjell GTX Hiking Boot,48,99419.79,40554.15
+2024-05-01,Vestland,Footwear,Fjell GTX Hiking Boot,37,78258.04,30363.7
+2024-05-01,Rogaland,Footwear,Fjell GTX Hiking Boot,34,73598.22,29062.76
+2024-05-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,21,44781.35,17861.88
+2024-05-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,53,109850.05,42725.56
+2024-05-01,Oslo,Footwear,Sti Trail Runner,52,74614.28,28136.84
+2024-05-01,Vestland,Footwear,Sti Trail Runner,33,46862.98,16704.19
+2024-05-01,Rogaland,Footwear,Sti Trail Runner,37,53671.94,20057.26
+2024-05-01,Trøndelag,Footwear,Sti Trail Runner,26,38173.38,13697.36
+2024-05-01,"Online, rest of Norway",Footwear,Sti Trail Runner,52,75900.56,27262.36
+2024-05-01,Oslo,Footwear,Vinter Insulated Boot,49,90673.93,33533.78
+2024-05-01,Vestland,Footwear,Vinter Insulated Boot,17,30846.71,12172.56
+2024-05-01,Rogaland,Footwear,Vinter Insulated Boot,14,25292.9,9509.56
+2024-05-01,Trøndelag,Footwear,Vinter Insulated Boot,21,38445.2,14600.17
+2024-05-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,29,52741.05,20408.21
+2024-05-01,Oslo,Backpacks,Tind 40L Backpack,75,92657.83,43646.17
+2024-05-01,Vestland,Backpacks,Tind 40L Backpack,41,51705.2,23663.87
+2024-05-01,Rogaland,Backpacks,Tind 40L Backpack,48,59526.49,28153.05
+2024-05-01,Trøndelag,Backpacks,Tind 40L Backpack,30,37089.4,17216.23
+2024-05-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,52,66173.61,31492.73
+2024-05-01,Oslo,Backpacks,Dag 22L Daypack,101,66521.84,29976.99
+2024-05-01,Vestland,Backpacks,Dag 22L Daypack,69,45731.73,20144.17
+2024-05-01,Rogaland,Backpacks,Dag 22L Daypack,56,36775.59,16827.74
+2024-05-01,Trøndelag,Backpacks,Dag 22L Daypack,43,28579.01,12879.08
+2024-05-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,74,50385.63,22808.17
+2024-05-01,Oslo,Backpacks,Ekspedisjon 65L Pack,26,56752.25,25701.32
+2024-05-01,Vestland,Backpacks,Ekspedisjon 65L Pack,10,21376.1,9220.5
+2024-05-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,15,33891.0,14437.24
+2024-05-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,8,17314.69,7617.26
+2024-05-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,19,40995.89,17920.69
+2024-05-01,Oslo,Camping gear,Lofoten 2-person Tent,19,82029.65,26829.94
+2024-05-01,Vestland,Camping gear,Lofoten 2-person Tent,13,56352.36,18443.92
+2024-05-01,Rogaland,Camping gear,Lofoten 2-person Tent,13,57036.57,18821.86
+2024-05-01,Trøndelag,Camping gear,Lofoten 2-person Tent,14,61581.95,19964.52
+2024-05-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,11,49063.15,15907.14
+2024-05-01,Oslo,Camping gear,Polar Sleeping Bag,36,69936.35,25468.47
+2024-05-01,Vestland,Camping gear,Polar Sleeping Bag,27,51909.6,19239.96
+2024-05-01,Rogaland,Camping gear,Polar Sleeping Bag,21,40543.19,14852.12
+2024-05-01,Trøndelag,Camping gear,Polar Sleeping Bag,23,42997.9,15489.37
+2024-05-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,32,62401.35,22176.25
+2024-05-01,Oslo,Camping gear,Leir Camping Stove,73,56521.31,21682.2
+2024-05-01,Vestland,Camping gear,Leir Camping Stove,47,36597.41,14016.43
+2024-05-01,Rogaland,Camping gear,Leir Camping Stove,42,31644.79,12364.73
+2024-05-01,Trøndelag,Camping gear,Leir Camping Stove,40,30763.66,11894.05
+2024-05-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,56,42120.22,15664.93
+2024-05-01,Oslo,Accessories,Merino Wool Beanie,139,41441.87,23442.78
+2024-05-01,Vestland,Accessories,Merino Wool Beanie,83,24601.88,13407.41
+2024-05-01,Rogaland,Accessories,Merino Wool Beanie,85,24728.66,13176.09
+2024-05-01,Trøndelag,Accessories,Merino Wool Beanie,67,19196.67,10318.09
+2024-05-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,97,27879.89,14858.27
+2024-05-01,Oslo,Accessories,Trekking Poles (pair),49,27996.86,13843.17
+2024-05-01,Vestland,Accessories,Trekking Poles (pair),47,27370.62,13556.71
+2024-05-01,Rogaland,Accessories,Trekking Poles (pair),31,17199.4,8804.42
+2024-05-01,Trøndelag,Accessories,Trekking Poles (pair),24,14165.83,7037.97
+2024-05-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),43,25381.04,12202.82
+2024-05-01,Oslo,Accessories,Thermal Bottle 0.75 L,80,26583.02,13661.96
+2024-05-01,Vestland,Accessories,Thermal Bottle 0.75 L,58,19857.13,9970.68
+2024-05-01,Rogaland,Accessories,Thermal Bottle 0.75 L,47,16229.17,8211.29
+2024-05-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,44,14627.68,7503.36
+2024-05-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,64,21697.69,11005.71
+2024-06-01,Oslo,Jackets,Trail Pro Shell Jacket,19,45245.56,20894.88
+2024-06-01,Vestland,Jackets,Trail Pro Shell Jacket,18,43640.36,19782.26
+2024-06-01,Rogaland,Jackets,Trail Pro Shell Jacket,21,49917.71,23887.41
+2024-06-01,Trøndelag,Jackets,Trail Pro Shell Jacket,20,47868.22,22572.0
+2024-06-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,21,50536.09,23403.1
+2024-06-01,Oslo,Jackets,Vidde Down Parka,4,15459.99,7510.18
+2024-06-01,Vestland,Jackets,Vidde Down Parka,5,19581.88,9231.82
+2024-06-01,Rogaland,Jackets,Vidde Down Parka,3,11510.27,5643.54
+2024-06-01,Trøndelag,Jackets,Vidde Down Parka,3,11473.15,5531.19
+2024-06-01,"Online, rest of Norway",Jackets,Vidde Down Parka,8,30708.24,15713.37
+2024-06-01,Oslo,Jackets,Breeze Wind Jacket,22,26930.58,11564.81
+2024-06-01,Vestland,Jackets,Breeze Wind Jacket,19,23309.79,10138.09
+2024-06-01,Rogaland,Jackets,Breeze Wind Jacket,12,15052.59,6318.54
+2024-06-01,Trøndelag,Jackets,Breeze Wind Jacket,12,15319.37,6370.64
+2024-06-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,14,17549.01,7479.2
+2024-06-01,Oslo,Footwear,Fjell GTX Hiking Boot,56,117132.79,47129.17
+2024-06-01,Vestland,Footwear,Fjell GTX Hiking Boot,32,69992.17,27569.39
+2024-06-01,Rogaland,Footwear,Fjell GTX Hiking Boot,28,60087.88,24274.5
+2024-06-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,31,66634.24,26000.84
+2024-06-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,31,66226.48,26799.53
+2024-06-01,Oslo,Footwear,Sti Trail Runner,74,105955.36,37310.18
+2024-06-01,Vestland,Footwear,Sti Trail Runner,32,46028.59,16513.0
+2024-06-01,Rogaland,Footwear,Sti Trail Runner,37,53914.96,19333.3
+2024-06-01,Trøndelag,Footwear,Sti Trail Runner,13,18214.27,6522.83
+2024-06-01,"Online, rest of Norway",Footwear,Sti Trail Runner,38,54967.05,18934.87
+2024-06-01,Oslo,Footwear,Vinter Insulated Boot,35,64549.56,23962.87
+2024-06-01,Vestland,Footwear,Vinter Insulated Boot,34,61881.12,23218.85
+2024-06-01,Rogaland,Footwear,Vinter Insulated Boot,21,38966.46,15065.15
+2024-06-01,Trøndelag,Footwear,Vinter Insulated Boot,25,46926.45,17923.59
+2024-06-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,20,37103.65,14020.52
+2024-06-01,Oslo,Backpacks,Tind 40L Backpack,96,118179.36,54657.64
+2024-06-01,Vestland,Backpacks,Tind 40L Backpack,52,65567.02,31378.12
+2024-06-01,Rogaland,Backpacks,Tind 40L Backpack,46,57329.08,26978.45
+2024-06-01,Trøndelag,Backpacks,Tind 40L Backpack,38,47581.91,22001.6
+2024-06-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,60,75302.28,36953.94
+2024-06-01,Oslo,Backpacks,Dag 22L Daypack,115,78241.24,35277.57
+2024-06-01,Vestland,Backpacks,Dag 22L Daypack,63,42717.73,19345.66
+2024-06-01,Rogaland,Backpacks,Dag 22L Daypack,68,45278.62,21477.27
+2024-06-01,Trøndelag,Backpacks,Dag 22L Daypack,52,34429.95,15201.37
+2024-06-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,95,63708.73,28632.51
+2024-06-01,Oslo,Backpacks,Ekspedisjon 65L Pack,33,72083.69,31859.1
+2024-06-01,Vestland,Backpacks,Ekspedisjon 65L Pack,15,32902.43,14673.23
+2024-06-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,17,37210.88,16798.86
+2024-06-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,13,29433.84,13679.42
+2024-06-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,20,43685.7,19106.51
+2024-06-01,Oslo,Camping gear,Lofoten 2-person Tent,20,87789.91,29320.06
+2024-06-01,Vestland,Camping gear,Lofoten 2-person Tent,17,74308.51,23608.38
+2024-06-01,Rogaland,Camping gear,Lofoten 2-person Tent,19,82151.28,28200.24
+2024-06-01,Trøndelag,Camping gear,Lofoten 2-person Tent,11,47218.51,15270.73
+2024-06-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,14,59223.88,19473.4
+2024-06-01,Oslo,Camping gear,Polar Sleeping Bag,55,104831.12,37331.97
+2024-06-01,Vestland,Camping gear,Polar Sleeping Bag,39,75985.77,27946.21
+2024-06-01,Rogaland,Camping gear,Polar Sleeping Bag,31,60244.28,21952.9
+2024-06-01,Trøndelag,Camping gear,Polar Sleeping Bag,22,43109.89,15920.49
+2024-06-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,30,57921.45,20856.42
+2024-06-01,Oslo,Camping gear,Leir Camping Stove,89,66633.95,25367.84
+2024-06-01,Vestland,Camping gear,Leir Camping Stove,61,46170.33,17158.86
+2024-06-01,Rogaland,Camping gear,Leir Camping Stove,55,41444.2,15343.45
+2024-06-01,Trøndelag,Camping gear,Leir Camping Stove,44,33172.89,12595.84
+2024-06-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,74,56438.77,21974.05
+2024-06-01,Oslo,Accessories,Merino Wool Beanie,147,43255.86,24024.96
+2024-06-01,Vestland,Accessories,Merino Wool Beanie,68,20077.55,10813.72
+2024-06-01,Rogaland,Accessories,Merino Wool Beanie,89,24862.15,13956.91
+2024-06-01,Trøndelag,Accessories,Merino Wool Beanie,58,16885.91,9488.71
+2024-06-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,88,25445.69,14128.81
+2024-06-01,Oslo,Accessories,Trekking Poles (pair),46,26638.82,12827.57
+2024-06-01,Vestland,Accessories,Trekking Poles (pair),43,24562.99,12436.56
+2024-06-01,Rogaland,Accessories,Trekking Poles (pair),20,11070.04,5393.53
+2024-06-01,Trøndelag,Accessories,Trekking Poles (pair),18,10137.64,5194.05
+2024-06-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),36,21006.67,10599.66
+2024-06-01,Oslo,Accessories,Thermal Bottle 0.75 L,86,30138.9,15976.59
+2024-06-01,Vestland,Accessories,Thermal Bottle 0.75 L,40,13780.23,7338.08
+2024-06-01,Rogaland,Accessories,Thermal Bottle 0.75 L,43,14765.63,8073.17
+2024-06-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,43,14487.88,7459.83
+2024-06-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,71,23874.06,12506.22
+2024-07-01,Oslo,Jackets,Trail Pro Shell Jacket,33,79721.39,38436.52
+2024-07-01,Vestland,Jackets,Trail Pro Shell Jacket,13,31534.49,15226.95
+2024-07-01,Rogaland,Jackets,Trail Pro Shell Jacket,22,53437.62,24970.87
+2024-07-01,Trøndelag,Jackets,Trail Pro Shell Jacket,11,26457.21,12539.21
+2024-07-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,18,43483.28,19462.95
+2024-07-01,Oslo,Jackets,Vidde Down Parka,13,51091.7,24583.25
+2024-07-01,Vestland,Jackets,Vidde Down Parka,2,7681.76,3770.44
+2024-07-01,Rogaland,Jackets,Vidde Down Parka,5,18736.61,9146.31
+2024-07-01,Trøndelag,Jackets,Vidde Down Parka,4,15660.62,7773.7
+2024-07-01,"Online, rest of Norway",Jackets,Vidde Down Parka,14,55122.14,26800.37
+2024-07-01,Oslo,Jackets,Breeze Wind Jacket,15,18736.19,8119.9
+2024-07-01,Vestland,Jackets,Breeze Wind Jacket,20,25221.22,10444.82
+2024-07-01,Rogaland,Jackets,Breeze Wind Jacket,14,17444.05,7442.31
+2024-07-01,Trøndelag,Jackets,Breeze Wind Jacket,14,17468.54,7242.26
+2024-07-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,17,21594.53,9120.71
+2024-07-01,Oslo,Footwear,Fjell GTX Hiking Boot,54,115733.94,45491.83
+2024-07-01,Vestland,Footwear,Fjell GTX Hiking Boot,23,48590.99,18514.26
+2024-07-01,Rogaland,Footwear,Fjell GTX Hiking Boot,31,67457.89,26064.23
+2024-07-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,23,48381.33,19591.05
+2024-07-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,44,93063.43,38379.28
+2024-07-01,Oslo,Footwear,Sti Trail Runner,38,55884.33,20966.1
+2024-07-01,Vestland,Footwear,Sti Trail Runner,48,71329.1,24896.72
+2024-07-01,Rogaland,Footwear,Sti Trail Runner,29,41980.12,15039.51
+2024-07-01,Trøndelag,Footwear,Sti Trail Runner,29,40827.41,14408.88
+2024-07-01,"Online, rest of Norway",Footwear,Sti Trail Runner,39,56253.62,20279.7
+2024-07-01,Oslo,Footwear,Vinter Insulated Boot,35,64899.46,25065.92
+2024-07-01,Vestland,Footwear,Vinter Insulated Boot,23,41867.21,16154.22
+2024-07-01,Rogaland,Footwear,Vinter Insulated Boot,26,47368.63,18194.89
+2024-07-01,Trøndelag,Footwear,Vinter Insulated Boot,23,42224.32,16364.84
+2024-07-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,25,44474.11,16474.48
+2024-07-01,Oslo,Backpacks,Tind 40L Backpack,97,119144.63,55210.92
+2024-07-01,Vestland,Backpacks,Tind 40L Backpack,50,63844.52,30404.19
+2024-07-01,Rogaland,Backpacks,Tind 40L Backpack,62,77624.37,35001.04
+2024-07-01,Trøndelag,Backpacks,Tind 40L Backpack,42,52326.99,25487.19
+2024-07-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,68,85041.26,39889.22
+2024-07-01,Oslo,Backpacks,Dag 22L Daypack,113,76622.63,35430.28
+2024-07-01,Vestland,Backpacks,Dag 22L Daypack,67,44841.54,20507.73
+2024-07-01,Rogaland,Backpacks,Dag 22L Daypack,57,37700.56,17335.32
+2024-07-01,Trøndelag,Backpacks,Dag 22L Daypack,51,32976.97,14676.97
+2024-07-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,91,61140.74,28068.37
+2024-07-01,Oslo,Backpacks,Ekspedisjon 65L Pack,33,73709.61,33019.42
+2024-07-01,Vestland,Backpacks,Ekspedisjon 65L Pack,18,41038.69,18135.11
+2024-07-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,19,43141.9,19193.23
+2024-07-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,15,34237.83,15000.23
+2024-07-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,29,65097.47,28602.78
+2024-07-01,Oslo,Camping gear,Lofoten 2-person Tent,24,103651.14,34990.39
+2024-07-01,Vestland,Camping gear,Lofoten 2-person Tent,15,65476.51,21531.64
+2024-07-01,Rogaland,Camping gear,Lofoten 2-person Tent,9,38673.17,12348.16
+2024-07-01,Trøndelag,Camping gear,Lofoten 2-person Tent,18,78006.81,26147.68
+2024-07-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,22,95354.47,32738.64
+2024-07-01,Oslo,Camping gear,Polar Sleeping Bag,49,92128.75,33094.56
+2024-07-01,Vestland,Camping gear,Polar Sleeping Bag,42,81560.34,29138.55
+2024-07-01,Rogaland,Camping gear,Polar Sleeping Bag,32,63140.32,23407.94
+2024-07-01,Trøndelag,Camping gear,Polar Sleeping Bag,32,63038.26,23457.36
+2024-07-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,54,104560.75,37972.75
+2024-07-01,Oslo,Camping gear,Leir Camping Stove,89,70597.91,27170.56
+2024-07-01,Vestland,Camping gear,Leir Camping Stove,61,46691.37,17878.02
+2024-07-01,Rogaland,Camping gear,Leir Camping Stove,53,41409.2,16167.39
+2024-07-01,Trøndelag,Camping gear,Leir Camping Stove,36,27549.7,10540.04
+2024-07-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,82,62916.98,24582.75
+2024-07-01,Oslo,Accessories,Merino Wool Beanie,150,42943.92,24638.87
+2024-07-01,Vestland,Accessories,Merino Wool Beanie,89,25170.74,13616.12
+2024-07-01,Rogaland,Accessories,Merino Wool Beanie,98,27581.78,15484.99
+2024-07-01,Trøndelag,Accessories,Merino Wool Beanie,55,15929.98,8797.36
+2024-07-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,97,27700.98,15175.66
+2024-07-01,Oslo,Accessories,Trekking Poles (pair),38,21509.62,10931.99
+2024-07-01,Vestland,Accessories,Trekking Poles (pair),32,18059.09,8906.93
+2024-07-01,Rogaland,Accessories,Trekking Poles (pair),30,17223.01,8896.96
+2024-07-01,Trøndelag,Accessories,Trekking Poles (pair),20,11896.86,5973.59
+2024-07-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),40,23727.49,12211.64
+2024-07-01,Oslo,Accessories,Thermal Bottle 0.75 L,86,29154.17,14861.14
+2024-07-01,Vestland,Accessories,Thermal Bottle 0.75 L,51,17569.45,9356.74
+2024-07-01,Rogaland,Accessories,Thermal Bottle 0.75 L,57,19471.86,10107.56
+2024-07-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,43,14882.53,7714.71
+2024-07-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,55,18703.0,10190.96
+2024-08-01,Oslo,Jackets,Trail Pro Shell Jacket,34,82326.58,39689.14
+2024-08-01,Vestland,Jackets,Trail Pro Shell Jacket,21,50261.74,23749.71
+2024-08-01,Rogaland,Jackets,Trail Pro Shell Jacket,23,55938.31,25760.82
+2024-08-01,Trøndelag,Jackets,Trail Pro Shell Jacket,16,37790.94,17611.63
+2024-08-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,22,52913.61,24859.5
+2024-08-01,Oslo,Jackets,Vidde Down Parka,14,55387.41,26887.76
+2024-08-01,Vestland,Jackets,Vidde Down Parka,10,38921.74,19668.89
+2024-08-01,Rogaland,Jackets,Vidde Down Parka,8,30121.4,14688.71
+2024-08-01,Trøndelag,Jackets,Vidde Down Parka,12,45644.93,22739.7
+2024-08-01,"Online, rest of Norway",Jackets,Vidde Down Parka,20,77195.07,38128.42
+2024-08-01,Oslo,Jackets,Breeze Wind Jacket,28,35073.0,14764.52
+2024-08-01,Vestland,Jackets,Breeze Wind Jacket,14,17223.99,7259.5
+2024-08-01,Rogaland,Jackets,Breeze Wind Jacket,16,20076.42,8333.38
+2024-08-01,Trøndelag,Jackets,Breeze Wind Jacket,12,14722.0,6038.6
+2024-08-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,24,29844.15,12297.78
+2024-08-01,Oslo,Footwear,Fjell GTX Hiking Boot,43,92259.63,36290.12
+2024-08-01,Vestland,Footwear,Fjell GTX Hiking Boot,24,51897.82,21193.43
+2024-08-01,Rogaland,Footwear,Fjell GTX Hiking Boot,20,42978.6,17326.05
+2024-08-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,16,33359.35,13514.21
+2024-08-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,29,62435.39,24627.28
+2024-08-01,Oslo,Footwear,Sti Trail Runner,49,70059.62,24302.72
+2024-08-01,Vestland,Footwear,Sti Trail Runner,27,39487.69,14490.71
+2024-08-01,Rogaland,Footwear,Sti Trail Runner,32,46132.48,16465.67
+2024-08-01,Trøndelag,Footwear,Sti Trail Runner,20,28698.68,10427.71
+2024-08-01,"Online, rest of Norway",Footwear,Sti Trail Runner,36,51498.9,18725.4
+2024-08-01,Oslo,Footwear,Vinter Insulated Boot,27,49571.41,18841.21
+2024-08-01,Vestland,Footwear,Vinter Insulated Boot,19,34590.59,13533.39
+2024-08-01,Rogaland,Footwear,Vinter Insulated Boot,21,38901.52,14948.24
+2024-08-01,Trøndelag,Footwear,Vinter Insulated Boot,15,27225.83,10292.1
+2024-08-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,17,30692.87,11463.72
+2024-08-01,Oslo,Backpacks,Tind 40L Backpack,74,90625.84,42053.77
+2024-08-01,Vestland,Backpacks,Tind 40L Backpack,44,54602.73,25666.98
+2024-08-01,Rogaland,Backpacks,Tind 40L Backpack,37,46856.45,22354.13
+2024-08-01,Trøndelag,Backpacks,Tind 40L Backpack,35,43997.94,20958.6
+2024-08-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,46,57456.31,27999.39
+2024-08-01,Oslo,Backpacks,Dag 22L Daypack,101,70206.33,31014.56
+2024-08-01,Vestland,Backpacks,Dag 22L Daypack,67,44768.53,20369.19
+2024-08-01,Rogaland,Backpacks,Dag 22L Daypack,55,37435.43,17041.49
+2024-08-01,Trøndelag,Backpacks,Dag 22L Daypack,56,36874.97,16405.32
+2024-08-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,75,50955.11,22858.66
+2024-08-01,Oslo,Backpacks,Ekspedisjon 65L Pack,22,49052.54,21228.34
+2024-08-01,Vestland,Backpacks,Ekspedisjon 65L Pack,12,26288.83,11227.33
+2024-08-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,18,41875.11,18024.83
+2024-08-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,13,29559.81,13023.12
+2024-08-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,22,48356.6,20820.04
+2024-08-01,Oslo,Camping gear,Lofoten 2-person Tent,15,63063.68,20260.69
+2024-08-01,Vestland,Camping gear,Lofoten 2-person Tent,16,70111.97,23278.35
+2024-08-01,Rogaland,Camping gear,Lofoten 2-person Tent,9,39889.2,13162.93
+2024-08-01,Trøndelag,Camping gear,Lofoten 2-person Tent,7,30174.45,9825.68
+2024-08-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,8,34884.76,11313.32
+2024-08-01,Oslo,Camping gear,Polar Sleeping Bag,37,69867.69,25666.09
+2024-08-01,Vestland,Camping gear,Polar Sleeping Bag,26,50219.76,18492.25
+2024-08-01,Rogaland,Camping gear,Polar Sleeping Bag,24,46716.83,16654.93
+2024-08-01,Trøndelag,Camping gear,Polar Sleeping Bag,20,39766.92,14767.31
+2024-08-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,20,39150.55,13890.68
+2024-08-01,Oslo,Camping gear,Leir Camping Stove,59,44761.13,16779.18
+2024-08-01,Vestland,Camping gear,Leir Camping Stove,41,31552.79,11666.23
+2024-08-01,Rogaland,Camping gear,Leir Camping Stove,43,33394.04,12988.75
+2024-08-01,Trøndelag,Camping gear,Leir Camping Stove,37,27151.95,9953.12
+2024-08-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,40,30296.16,11890.76
+2024-08-01,Oslo,Accessories,Merino Wool Beanie,119,34356.98,18846.41
+2024-08-01,Vestland,Accessories,Merino Wool Beanie,99,28900.55,16126.11
+2024-08-01,Rogaland,Accessories,Merino Wool Beanie,101,29634.97,16203.21
+2024-08-01,Trøndelag,Accessories,Merino Wool Beanie,68,19411.53,10789.77
+2024-08-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,93,27786.54,14894.7
+2024-08-01,Oslo,Accessories,Trekking Poles (pair),48,27571.9,13793.76
+2024-08-01,Vestland,Accessories,Trekking Poles (pair),37,21487.31,10964.56
+2024-08-01,Rogaland,Accessories,Trekking Poles (pair),32,18425.04,9234.47
+2024-08-01,Trøndelag,Accessories,Trekking Poles (pair),22,12516.88,6160.27
+2024-08-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),41,24669.39,12312.56
+2024-08-01,Oslo,Accessories,Thermal Bottle 0.75 L,67,22772.45,11528.73
+2024-08-01,Vestland,Accessories,Thermal Bottle 0.75 L,53,18000.5,9657.17
+2024-08-01,Rogaland,Accessories,Thermal Bottle 0.75 L,43,14701.02,7893.35
+2024-08-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,45,15119.5,7741.62
+2024-08-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,53,18169.45,9384.98
+2024-09-01,Oslo,Jackets,Trail Pro Shell Jacket,73,170935.56,82043.44
+2024-09-01,Vestland,Jackets,Trail Pro Shell Jacket,35,87620.31,40890.6
+2024-09-01,Rogaland,Jackets,Trail Pro Shell Jacket,41,100539.12,46717.8
+2024-09-01,Trøndelag,Jackets,Trail Pro Shell Jacket,26,63165.5,28473.71
+2024-09-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,30,72268.06,33974.98
+2024-09-01,Oslo,Jackets,Vidde Down Parka,37,141338.86,69634.12
+2024-09-01,Vestland,Jackets,Vidde Down Parka,18,68340.85,33726.2
+2024-09-01,Rogaland,Jackets,Vidde Down Parka,12,45844.01,22431.22
+2024-09-01,Trøndelag,Jackets,Vidde Down Parka,11,41987.5,20371.33
+2024-09-01,"Online, rest of Norway",Jackets,Vidde Down Parka,16,62389.53,30890.54
+2024-09-01,Oslo,Jackets,Breeze Wind Jacket,44,55905.07,23041.41
+2024-09-01,Vestland,Jackets,Breeze Wind Jacket,32,39762.23,16319.93
+2024-09-01,Rogaland,Jackets,Breeze Wind Jacket,27,33434.09,13953.63
+2024-09-01,Trøndelag,Jackets,Breeze Wind Jacket,25,32478.24,13687.38
+2024-09-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,42,52763.05,22353.39
+2024-09-01,Oslo,Footwear,Fjell GTX Hiking Boot,51,105707.16,42934.61
+2024-09-01,Vestland,Footwear,Fjell GTX Hiking Boot,35,74340.23,28709.99
+2024-09-01,Rogaland,Footwear,Fjell GTX Hiking Boot,23,48506.5,18972.33
+2024-09-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,11,23197.17,9416.07
+2024-09-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,26,56289.31,22216.24
+2024-09-01,Oslo,Footwear,Sti Trail Runner,38,56472.4,19869.07
+2024-09-01,Vestland,Footwear,Sti Trail Runner,35,51196.58,18818.79
+2024-09-01,Rogaland,Footwear,Sti Trail Runner,39,55239.22,19562.78
+2024-09-01,Trøndelag,Footwear,Sti Trail Runner,12,17777.01,6499.5
+2024-09-01,"Online, rest of Norway",Footwear,Sti Trail Runner,30,42911.94,15400.96
+2024-09-01,Oslo,Footwear,Vinter Insulated Boot,33,60810.95,23193.9
+2024-09-01,Vestland,Footwear,Vinter Insulated Boot,22,40483.94,15555.15
+2024-09-01,Rogaland,Footwear,Vinter Insulated Boot,26,48158.49,18055.12
+2024-09-01,Trøndelag,Footwear,Vinter Insulated Boot,9,16822.66,6528.86
+2024-09-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,29,53010.11,21365.27
+2024-09-01,Oslo,Backpacks,Tind 40L Backpack,54,68443.33,32095.08
+2024-09-01,Vestland,Backpacks,Tind 40L Backpack,42,52774.42,24353.04
+2024-09-01,Rogaland,Backpacks,Tind 40L Backpack,28,34706.86,16058.9
+2024-09-01,Trøndelag,Backpacks,Tind 40L Backpack,19,23239.04,10769.82
+2024-09-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,40,49552.88,23448.43
+2024-09-01,Oslo,Backpacks,Dag 22L Daypack,77,50804.73,22318.75
+2024-09-01,Vestland,Backpacks,Dag 22L Daypack,50,33970.42,15298.71
+2024-09-01,Rogaland,Backpacks,Dag 22L Daypack,45,30410.58,13788.77
+2024-09-01,Trøndelag,Backpacks,Dag 22L Daypack,40,26477.21,12049.36
+2024-09-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,39,25706.68,11400.68
+2024-09-01,Oslo,Backpacks,Ekspedisjon 65L Pack,20,43449.05,18803.35
+2024-09-01,Vestland,Backpacks,Ekspedisjon 65L Pack,14,31591.01,13783.76
+2024-09-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,16,35372.51,15907.71
+2024-09-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,4,8809.86,3879.53
+2024-09-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,17,37163.45,16684.51
+2024-09-01,Oslo,Camping gear,Lofoten 2-person Tent,9,39930.09,13765.7
+2024-09-01,Vestland,Camping gear,Lofoten 2-person Tent,7,30457.52,10174.73
+2024-09-01,Rogaland,Camping gear,Lofoten 2-person Tent,1,4456.99,1439.18
+2024-09-01,Trøndelag,Camping gear,Lofoten 2-person Tent,5,21388.7,7215.48
+2024-09-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,2,8775.95,2915.58
+2024-09-01,Oslo,Camping gear,Polar Sleeping Bag,28,54777.51,19793.2
+2024-09-01,Vestland,Camping gear,Polar Sleeping Bag,20,37767.12,13858.88
+2024-09-01,Rogaland,Camping gear,Polar Sleeping Bag,11,21020.71,7816.32
+2024-09-01,Trøndelag,Camping gear,Polar Sleeping Bag,9,17401.57,6127.72
+2024-09-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,18,34481.87,12511.58
+2024-09-01,Oslo,Camping gear,Leir Camping Stove,30,22877.71,8551.22
+2024-09-01,Vestland,Camping gear,Leir Camping Stove,27,20633.32,7781.51
+2024-09-01,Rogaland,Camping gear,Leir Camping Stove,16,12443.02,4528.82
+2024-09-01,Trøndelag,Camping gear,Leir Camping Stove,16,12591.39,4858.28
+2024-09-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,33,24998.32,9691.08
+2024-09-01,Oslo,Accessories,Merino Wool Beanie,160,46113.36,24840.64
+2024-09-01,Vestland,Accessories,Merino Wool Beanie,107,30795.78,17125.33
+2024-09-01,Rogaland,Accessories,Merino Wool Beanie,81,23332.08,12871.54
+2024-09-01,Trøndelag,Accessories,Merino Wool Beanie,84,24716.44,13859.39
+2024-09-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,121,34546.08,18831.66
+2024-09-01,Oslo,Accessories,Trekking Poles (pair),73,42300.95,21208.94
+2024-09-01,Vestland,Accessories,Trekking Poles (pair),49,27763.29,13794.7
+2024-09-01,Rogaland,Accessories,Trekking Poles (pair),36,21211.46,10665.95
+2024-09-01,Trøndelag,Accessories,Trekking Poles (pair),31,18017.22,9002.36
+2024-09-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),33,19190.66,9541.33
+2024-09-01,Oslo,Accessories,Thermal Bottle 0.75 L,71,23634.6,11889.82
+2024-09-01,Vestland,Accessories,Thermal Bottle 0.75 L,67,23273.41,12291.48
+2024-09-01,Rogaland,Accessories,Thermal Bottle 0.75 L,50,16993.67,8868.1
+2024-09-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,41,13893.67,7285.44
+2024-09-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,78,26264.4,12918.94
+2024-10-01,Oslo,Jackets,Trail Pro Shell Jacket,70,167699.92,77211.71
+2024-10-01,Vestland,Jackets,Trail Pro Shell Jacket,47,109553.16,51711.92
+2024-10-01,Rogaland,Jackets,Trail Pro Shell Jacket,38,89962.07,42307.55
+2024-10-01,Trøndelag,Jackets,Trail Pro Shell Jacket,32,77438.64,36210.42
+2024-10-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,67,160363.95,75358.58
+2024-10-01,Oslo,Jackets,Vidde Down Parka,41,159479.52,81080.68
+2024-10-01,Vestland,Jackets,Vidde Down Parka,26,101290.89,49609.29
+2024-10-01,Rogaland,Jackets,Vidde Down Parka,23,88313.71,42344.46
+2024-10-01,Trøndelag,Jackets,Vidde Down Parka,25,95190.79,47188.08
+2024-10-01,"Online, rest of Norway",Jackets,Vidde Down Parka,23,88658.68,41828.21
+2024-10-01,Oslo,Jackets,Breeze Wind Jacket,73,92510.17,38300.17
+2024-10-01,Vestland,Jackets,Breeze Wind Jacket,44,53994.97,22999.76
+2024-10-01,Rogaland,Jackets,Breeze Wind Jacket,40,51345.45,21777.91
+2024-10-01,Trøndelag,Jackets,Breeze Wind Jacket,27,33764.02,13558.3
+2024-10-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,48,59729.83,24531.7
+2024-10-01,Oslo,Footwear,Fjell GTX Hiking Boot,49,105610.88,42359.77
+2024-10-01,Vestland,Footwear,Fjell GTX Hiking Boot,30,63615.34,25987.79
+2024-10-01,Rogaland,Footwear,Fjell GTX Hiking Boot,26,55552.31,22390.17
+2024-10-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,23,49256.47,19445.91
+2024-10-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,38,83126.39,34568.78
+2024-10-01,Oslo,Footwear,Sti Trail Runner,47,67536.82,24851.07
+2024-10-01,Vestland,Footwear,Sti Trail Runner,32,46222.6,16113.87
+2024-10-01,Rogaland,Footwear,Sti Trail Runner,23,33612.65,12454.32
+2024-10-01,Trøndelag,Footwear,Sti Trail Runner,23,32757.07,11738.83
+2024-10-01,"Online, rest of Norway",Footwear,Sti Trail Runner,38,53721.64,18831.14
+2024-10-01,Oslo,Footwear,Vinter Insulated Boot,31,58646.15,22892.8
+2024-10-01,Vestland,Footwear,Vinter Insulated Boot,22,40143.49,15588.76
+2024-10-01,Rogaland,Footwear,Vinter Insulated Boot,23,42564.13,15482.92
+2024-10-01,Trøndelag,Footwear,Vinter Insulated Boot,14,25673.5,9658.58
+2024-10-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,24,44179.87,16818.4
+2024-10-01,Oslo,Backpacks,Tind 40L Backpack,38,46846.96,21893.88
+2024-10-01,Vestland,Backpacks,Tind 40L Backpack,28,35013.75,16786.74
+2024-10-01,Rogaland,Backpacks,Tind 40L Backpack,18,22730.53,10631.32
+2024-10-01,Trøndelag,Backpacks,Tind 40L Backpack,25,32079.77,15022.84
+2024-10-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,31,38168.48,18122.42
+2024-10-01,Oslo,Backpacks,Dag 22L Daypack,47,31980.39,14493.86
+2024-10-01,Vestland,Backpacks,Dag 22L Daypack,38,25409.77,11437.27
+2024-10-01,Rogaland,Backpacks,Dag 22L Daypack,31,21251.46,9636.74
+2024-10-01,Trøndelag,Backpacks,Dag 22L Daypack,24,16035.34,7441.21
+2024-10-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,50,33647.12,15283.91
+2024-10-01,Oslo,Backpacks,Ekspedisjon 65L Pack,13,28513.33,12590.29
+2024-10-01,Vestland,Backpacks,Ekspedisjon 65L Pack,11,24587.16,10760.71
+2024-10-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,8,18025.1,7890.96
+2024-10-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,4,8900.78,3817.96
+2024-10-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,11,25067.8,11188.08
+2024-10-01,Oslo,Camping gear,Lofoten 2-person Tent,4,17519.06,5772.92
+2024-10-01,Vestland,Camping gear,Lofoten 2-person Tent,1,4378.17,1450.17
+2024-10-01,Rogaland,Camping gear,Lofoten 2-person Tent,3,13081.75,4311.65
+2024-10-01,Trøndelag,Camping gear,Lofoten 2-person Tent,3,12904.33,4211.84
+2024-10-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,4,18092.74,5919.55
+2024-10-01,Oslo,Camping gear,Polar Sleeping Bag,14,27607.63,10131.21
+2024-10-01,Vestland,Camping gear,Polar Sleeping Bag,8,15596.45,5528.76
+2024-10-01,Rogaland,Camping gear,Polar Sleeping Bag,4,7824.09,2883.8
+2024-10-01,Trøndelag,Camping gear,Polar Sleeping Bag,4,7615.72,2799.35
+2024-10-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,11,21177.0,7426.92
+2024-10-01,Oslo,Camping gear,Leir Camping Stove,24,18458.7,6825.47
+2024-10-01,Vestland,Camping gear,Leir Camping Stove,13,9947.99,3731.29
+2024-10-01,Rogaland,Camping gear,Leir Camping Stove,20,15663.27,5905.25
+2024-10-01,Trøndelag,Camping gear,Leir Camping Stove,22,17231.28,6581.5
+2024-10-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,18,13926.35,5328.84
+2024-10-01,Oslo,Accessories,Merino Wool Beanie,192,54904.78,30200.23
+2024-10-01,Vestland,Accessories,Merino Wool Beanie,140,40334.53,22323.64
+2024-10-01,Rogaland,Accessories,Merino Wool Beanie,112,32488.16,17475.18
+2024-10-01,Trøndelag,Accessories,Merino Wool Beanie,81,23669.67,13155.45
+2024-10-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,139,39661.32,22080.22
+2024-10-01,Oslo,Accessories,Trekking Poles (pair),78,44876.54,22690.27
+2024-10-01,Vestland,Accessories,Trekking Poles (pair),53,32045.34,16455.33
+2024-10-01,Rogaland,Accessories,Trekking Poles (pair),30,16908.31,8230.58
+2024-10-01,Trøndelag,Accessories,Trekking Poles (pair),26,14858.68,7247.06
+2024-10-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),43,24697.99,12156.06
+2024-10-01,Oslo,Accessories,Thermal Bottle 0.75 L,106,35785.09,18830.41
+2024-10-01,Vestland,Accessories,Thermal Bottle 0.75 L,77,26256.45,13835.81
+2024-10-01,Rogaland,Accessories,Thermal Bottle 0.75 L,60,20066.24,10254.83
+2024-10-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,42,14318.37,7487.37
+2024-10-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,88,30221.43,16001.54
+2024-11-01,Oslo,Jackets,Trail Pro Shell Jacket,76,184211.31,87674.33
+2024-11-01,Vestland,Jackets,Trail Pro Shell Jacket,55,131330.08,62590.96
+2024-11-01,Rogaland,Jackets,Trail Pro Shell Jacket,60,145077.1,67577.74
+2024-11-01,Trøndelag,Jackets,Trail Pro Shell Jacket,40,94240.29,43621.8
+2024-11-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,70,176390.81,82295.7
+2024-11-01,Oslo,Jackets,Vidde Down Parka,37,141591.36,71182.73
+2024-11-01,Vestland,Jackets,Vidde Down Parka,21,80990.47,39291.07
+2024-11-01,Rogaland,Jackets,Vidde Down Parka,22,85669.37,40477.93
+2024-11-01,Trøndelag,Jackets,Vidde Down Parka,14,54438.12,26989.61
+2024-11-01,"Online, rest of Norway",Jackets,Vidde Down Parka,26,102066.72,50458.95
+2024-11-01,Oslo,Jackets,Breeze Wind Jacket,68,84510.15,34540.25
+2024-11-01,Vestland,Jackets,Breeze Wind Jacket,42,52496.76,21217.07
+2024-11-01,Rogaland,Jackets,Breeze Wind Jacket,40,49320.37,21274.55
+2024-11-01,Trøndelag,Jackets,Breeze Wind Jacket,30,38573.0,16040.96
+2024-11-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,51,63446.44,27032.4
+2024-11-01,Oslo,Footwear,Fjell GTX Hiking Boot,47,100799.47,38981.5
+2024-11-01,Vestland,Footwear,Fjell GTX Hiking Boot,27,56692.0,22576.72
+2024-11-01,Rogaland,Footwear,Fjell GTX Hiking Boot,28,57065.79,22446.6
+2024-11-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,20,42751.02,17191.91
+2024-11-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,42,88881.88,36369.57
+2024-11-01,Oslo,Footwear,Sti Trail Runner,55,79122.35,29030.26
+2024-11-01,Vestland,Footwear,Sti Trail Runner,43,61945.39,22153.58
+2024-11-01,Rogaland,Footwear,Sti Trail Runner,32,46414.82,16787.97
+2024-11-01,Trøndelag,Footwear,Sti Trail Runner,20,29864.12,10712.85
+2024-11-01,"Online, rest of Norway",Footwear,Sti Trail Runner,35,50805.94,18501.63
+2024-11-01,Oslo,Footwear,Vinter Insulated Boot,28,51197.78,18917.13
+2024-11-01,Vestland,Footwear,Vinter Insulated Boot,23,43372.49,16509.9
+2024-11-01,Rogaland,Footwear,Vinter Insulated Boot,18,34397.37,13297.49
+2024-11-01,Trøndelag,Footwear,Vinter Insulated Boot,8,14498.11,5360.11
+2024-11-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,22,40339.05,15203.7
+2024-11-01,Oslo,Backpacks,Tind 40L Backpack,45,56930.31,26123.77
+2024-11-01,Vestland,Backpacks,Tind 40L Backpack,20,24603.18,11660.02
+2024-11-01,Rogaland,Backpacks,Tind 40L Backpack,19,23981.63,11275.32
+2024-11-01,Trøndelag,Backpacks,Tind 40L Backpack,23,28240.54,12933.61
+2024-11-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,35,43034.83,20355.64
+2024-11-01,Oslo,Backpacks,Dag 22L Daypack,78,51810.89,23970.8
+2024-11-01,Vestland,Backpacks,Dag 22L Daypack,28,18521.41,8343.99
+2024-11-01,Rogaland,Backpacks,Dag 22L Daypack,35,23330.55,10346.34
+2024-11-01,Trøndelag,Backpacks,Dag 22L Daypack,28,18062.34,7956.33
+2024-11-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,40,26205.6,12214.9
+2024-11-01,Oslo,Backpacks,Ekspedisjon 65L Pack,9,19521.08,8549.58
+2024-11-01,Vestland,Backpacks,Ekspedisjon 65L Pack,5,10832.58,4666.45
+2024-11-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,8,17591.42,7774.5
+2024-11-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,5,11259.08,5032.27
+2024-11-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,15,32930.21,14183.2
+2024-11-01,Oslo,Camping gear,Lofoten 2-person Tent,11,48054.79,16081.05
+2024-11-01,Vestland,Camping gear,Lofoten 2-person Tent,5,21531.68,7444.22
+2024-11-01,Rogaland,Camping gear,Lofoten 2-person Tent,2,8843.71,2801.52
+2024-11-01,Trøndelag,Camping gear,Lofoten 2-person Tent,6,25947.89,8521.79
+2024-11-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,5,21850.38,7244.46
+2024-11-01,Oslo,Camping gear,Polar Sleeping Bag,10,19227.23,7024.85
+2024-11-01,Vestland,Camping gear,Polar Sleeping Bag,6,11380.5,4133.03
+2024-11-01,Rogaland,Camping gear,Polar Sleeping Bag,8,15383.72,5466.19
+2024-11-01,Trøndelag,Camping gear,Polar Sleeping Bag,7,13610.24,4817.57
+2024-11-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,9,17441.6,6365.24
+2024-11-01,Oslo,Camping gear,Leir Camping Stove,25,19444.14,7341.34
+2024-11-01,Vestland,Camping gear,Leir Camping Stove,16,12329.4,4558.05
+2024-11-01,Rogaland,Camping gear,Leir Camping Stove,19,14342.49,5379.97
+2024-11-01,Trøndelag,Camping gear,Leir Camping Stove,7,5413.45,2027.3
+2024-11-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,20,15284.82,5818.94
+2024-11-01,Oslo,Accessories,Merino Wool Beanie,263,76101.74,41717.61
+2024-11-01,Vestland,Accessories,Merino Wool Beanie,161,46738.89,26163.66
+2024-11-01,Rogaland,Accessories,Merino Wool Beanie,134,38538.52,21438.71
+2024-11-01,Trøndelag,Accessories,Merino Wool Beanie,107,30847.31,17259.81
+2024-11-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,184,53284.3,29449.93
+2024-11-01,Oslo,Accessories,Trekking Poles (pair),72,41427.63,20788.98
+2024-11-01,Vestland,Accessories,Trekking Poles (pair),53,30758.99,15350.58
+2024-11-01,Rogaland,Accessories,Trekking Poles (pair),47,27241.98,13577.32
+2024-11-01,Trøndelag,Accessories,Trekking Poles (pair),39,22371.21,10601.23
+2024-11-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),63,36316.21,18560.37
+2024-11-01,Oslo,Accessories,Thermal Bottle 0.75 L,160,54148.25,27696.29
+2024-11-01,Vestland,Accessories,Thermal Bottle 0.75 L,93,31850.69,17316.46
+2024-11-01,Rogaland,Accessories,Thermal Bottle 0.75 L,71,23595.2,12404.95
+2024-11-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,69,23653.94,12407.37
+2024-11-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,108,36657.89,18765.45
+2024-12-01,Oslo,Jackets,Trail Pro Shell Jacket,89,217540.42,97298.22
+2024-12-01,Vestland,Jackets,Trail Pro Shell Jacket,71,171565.41,81536.88
+2024-12-01,Rogaland,Jackets,Trail Pro Shell Jacket,46,112043.81,51808.93
+2024-12-01,Trøndelag,Jackets,Trail Pro Shell Jacket,44,107874.95,49984.95
+2024-12-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,70,170986.49,78756.4
+2024-12-01,Oslo,Jackets,Vidde Down Parka,48,185520.89,92741.64
+2024-12-01,Vestland,Jackets,Vidde Down Parka,22,83859.86,41927.27
+2024-12-01,Rogaland,Jackets,Vidde Down Parka,20,77320.63,37089.37
+2024-12-01,Trøndelag,Jackets,Vidde Down Parka,24,93325.77,45595.99
+2024-12-01,"Online, rest of Norway",Jackets,Vidde Down Parka,41,159381.95,77502.64
+2024-12-01,Oslo,Jackets,Breeze Wind Jacket,92,115287.51,50352.19
+2024-12-01,Vestland,Jackets,Breeze Wind Jacket,49,60938.31,26338.63
+2024-12-01,Rogaland,Jackets,Breeze Wind Jacket,55,68092.23,28278.6
+2024-12-01,Trøndelag,Jackets,Breeze Wind Jacket,38,48323.25,20480.87
+2024-12-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,62,78220.34,31968.5
+2024-12-01,Oslo,Footwear,Fjell GTX Hiking Boot,67,139824.31,54783.99
+2024-12-01,Vestland,Footwear,Fjell GTX Hiking Boot,37,79889.32,32343.71
+2024-12-01,Rogaland,Footwear,Fjell GTX Hiking Boot,33,68940.98,27294.63
+2024-12-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,32,69243.78,27741.39
+2024-12-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,40,84933.97,34234.73
+2024-12-01,Oslo,Footwear,Sti Trail Runner,55,78597.13,29495.62
+2024-12-01,Vestland,Footwear,Sti Trail Runner,44,64159.92,22634.09
+2024-12-01,Rogaland,Footwear,Sti Trail Runner,39,56613.63,19712.66
+2024-12-01,Trøndelag,Footwear,Sti Trail Runner,30,42816.5,14800.72
+2024-12-01,"Online, rest of Norway",Footwear,Sti Trail Runner,45,65047.4,23832.81
+2024-12-01,Oslo,Footwear,Vinter Insulated Boot,44,81356.11,30833.04
+2024-12-01,Vestland,Footwear,Vinter Insulated Boot,33,61789.8,24048.12
+2024-12-01,Rogaland,Footwear,Vinter Insulated Boot,23,42519.65,17214.5
+2024-12-01,Trøndelag,Footwear,Vinter Insulated Boot,10,18451.73,7067.36
+2024-12-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,41,75984.35,28319.09
+2024-12-01,Oslo,Backpacks,Tind 40L Backpack,63,79562.82,37547.36
+2024-12-01,Vestland,Backpacks,Tind 40L Backpack,48,59274.29,27274.66
+2024-12-01,Rogaland,Backpacks,Tind 40L Backpack,51,63789.7,30110.28
+2024-12-01,Trøndelag,Backpacks,Tind 40L Backpack,35,44788.12,20937.71
+2024-12-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,44,56008.7,27119.68
+2024-12-01,Oslo,Backpacks,Dag 22L Daypack,84,57194.13,25497.08
+2024-12-01,Vestland,Backpacks,Dag 22L Daypack,54,35875.27,15885.78
+2024-12-01,Rogaland,Backpacks,Dag 22L Daypack,44,29365.35,12878.43
+2024-12-01,Trøndelag,Backpacks,Dag 22L Daypack,39,26847.08,12176.32
+2024-12-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,75,50011.59,22334.95
+2024-12-01,Oslo,Backpacks,Ekspedisjon 65L Pack,18,38413.41,17171.61
+2024-12-01,Vestland,Backpacks,Ekspedisjon 65L Pack,12,27353.17,11863.5
+2024-12-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,13,28174.09,12181.97
+2024-12-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,7,15657.56,6853.31
+2024-12-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,16,35213.94,15497.31
+2024-12-01,Oslo,Camping gear,Lofoten 2-person Tent,15,67442.61,22405.73
+2024-12-01,Vestland,Camping gear,Lofoten 2-person Tent,5,21766.84,7175.5
+2024-12-01,Rogaland,Camping gear,Lofoten 2-person Tent,5,21272.84,7036.39
+2024-12-01,Trøndelag,Camping gear,Lofoten 2-person Tent,1,4425.69,1474.26
+2024-12-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,8,34588.67,11420.89
+2024-12-01,Oslo,Camping gear,Polar Sleeping Bag,31,60877.34,21880.29
+2024-12-01,Vestland,Camping gear,Polar Sleeping Bag,15,29115.0,10294.04
+2024-12-01,Rogaland,Camping gear,Polar Sleeping Bag,15,28440.53,10256.8
+2024-12-01,Trøndelag,Camping gear,Polar Sleeping Bag,11,20986.81,7682.77
+2024-12-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,16,31818.36,11535.36
+2024-12-01,Oslo,Camping gear,Leir Camping Stove,32,24295.46,8828.56
+2024-12-01,Vestland,Camping gear,Leir Camping Stove,22,17050.51,6277.73
+2024-12-01,Rogaland,Camping gear,Leir Camping Stove,25,19682.31,7610.26
+2024-12-01,Trøndelag,Camping gear,Leir Camping Stove,19,14261.52,5630.16
+2024-12-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,26,19710.59,7598.22
+2024-12-01,Oslo,Accessories,Merino Wool Beanie,385,112716.58,59974.35
+2024-12-01,Vestland,Accessories,Merino Wool Beanie,228,67436.71,36292.44
+2024-12-01,Rogaland,Accessories,Merino Wool Beanie,224,65218.18,35917.33
+2024-12-01,Trøndelag,Accessories,Merino Wool Beanie,170,48339.38,26560.88
+2024-12-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,285,84636.08,46473.2
+2024-12-01,Oslo,Accessories,Trekking Poles (pair),134,78152.73,39033.01
+2024-12-01,Vestland,Accessories,Trekking Poles (pair),79,45805.44,23244.62
+2024-12-01,Rogaland,Accessories,Trekking Poles (pair),77,44139.58,22615.36
+2024-12-01,Trøndelag,Accessories,Trekking Poles (pair),61,36187.23,18512.06
+2024-12-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),108,62076.17,30414.91
+2024-12-01,Oslo,Accessories,Thermal Bottle 0.75 L,225,74531.4,38610.03
+2024-12-01,Vestland,Accessories,Thermal Bottle 0.75 L,146,48160.16,25308.16
+2024-12-01,Rogaland,Accessories,Thermal Bottle 0.75 L,145,50535.13,26723.88
+2024-12-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,100,34027.4,16930.48
+2024-12-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,159,53910.59,27429.25
+2025-01-01,Oslo,Jackets,Trail Pro Shell Jacket,58,145983.43,68621.45
+2025-01-01,Vestland,Jackets,Trail Pro Shell Jacket,40,96495.79,45721.41
+2025-01-01,Rogaland,Jackets,Trail Pro Shell Jacket,27,65925.13,31116.26
+2025-01-01,Trøndelag,Jackets,Trail Pro Shell Jacket,27,67634.78,31396.09
+2025-01-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,42,103452.2,48316.28
+2025-01-01,Oslo,Jackets,Vidde Down Parka,21,83283.77,40196.73
+2025-01-01,Vestland,Jackets,Vidde Down Parka,8,31250.36,15469.66
+2025-01-01,Rogaland,Jackets,Vidde Down Parka,16,63584.33,31299.26
+2025-01-01,Trøndelag,Jackets,Vidde Down Parka,15,60766.58,29150.09
+2025-01-01,"Online, rest of Norway",Jackets,Vidde Down Parka,13,52716.57,25364.36
+2025-01-01,Oslo,Jackets,Breeze Wind Jacket,36,46177.57,18861.98
+2025-01-01,Vestland,Jackets,Breeze Wind Jacket,30,37408.69,16052.78
+2025-01-01,Rogaland,Jackets,Breeze Wind Jacket,20,25249.79,10944.6
+2025-01-01,Trøndelag,Jackets,Breeze Wind Jacket,16,20131.61,8557.67
+2025-01-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,29,37741.65,15614.14
+2025-01-01,Oslo,Footwear,Fjell GTX Hiking Boot,38,83368.09,33240.78
+2025-01-01,Vestland,Footwear,Fjell GTX Hiking Boot,32,68204.62,27455.56
+2025-01-01,Rogaland,Footwear,Fjell GTX Hiking Boot,19,41830.56,16334.89
+2025-01-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,14,30004.68,12345.48
+2025-01-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,32,71260.97,27649.89
+2025-01-01,Oslo,Footwear,Sti Trail Runner,26,37673.46,13749.76
+2025-01-01,Vestland,Footwear,Sti Trail Runner,23,32935.26,11627.43
+2025-01-01,Rogaland,Footwear,Sti Trail Runner,30,42383.72,15637.41
+2025-01-01,Trøndelag,Footwear,Sti Trail Runner,25,37422.2,13289.44
+2025-01-01,"Online, rest of Norway",Footwear,Sti Trail Runner,32,47437.0,17235.25
+2025-01-01,Oslo,Footwear,Vinter Insulated Boot,33,62323.56,23335.25
+2025-01-01,Vestland,Footwear,Vinter Insulated Boot,20,35622.06,13584.82
+2025-01-01,Rogaland,Footwear,Vinter Insulated Boot,25,46674.99,18319.02
+2025-01-01,Trøndelag,Footwear,Vinter Insulated Boot,10,19001.7,7273.01
+2025-01-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,21,38979.55,15037.66
+2025-01-01,Oslo,Backpacks,Tind 40L Backpack,36,46053.41,22202.71
+2025-01-01,Vestland,Backpacks,Tind 40L Backpack,25,32157.77,15568.06
+2025-01-01,Rogaland,Backpacks,Tind 40L Backpack,20,25455.5,12167.12
+2025-01-01,Trøndelag,Backpacks,Tind 40L Backpack,10,12705.49,6062.0
+2025-01-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,30,39409.14,18797.39
+2025-01-01,Oslo,Backpacks,Dag 22L Daypack,49,33739.95,15147.85
+2025-01-01,Vestland,Backpacks,Dag 22L Daypack,28,19498.61,8574.29
+2025-01-01,Rogaland,Backpacks,Dag 22L Daypack,34,23925.96,10675.67
+2025-01-01,Trøndelag,Backpacks,Dag 22L Daypack,20,13442.0,6379.33
+2025-01-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,41,27971.98,12604.37
+2025-01-01,Oslo,Backpacks,Ekspedisjon 65L Pack,10,22793.4,9920.82
+2025-01-01,Vestland,Backpacks,Ekspedisjon 65L Pack,5,11122.3,4924.47
+2025-01-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,11,24628.11,10873.22
+2025-01-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,6,13411.97,5909.59
+2025-01-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,4,8835.48,3859.73
+2025-01-01,Oslo,Camping gear,Lofoten 2-person Tent,9,39705.83,13249.21
+2025-01-01,Vestland,Camping gear,Lofoten 2-person Tent,0,0.0,0.0
+2025-01-01,Rogaland,Camping gear,Lofoten 2-person Tent,2,8734.31,2975.37
+2025-01-01,Trøndelag,Camping gear,Lofoten 2-person Tent,2,8795.63,2861.4
+2025-01-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,7,31038.64,10316.7
+2025-01-01,Oslo,Camping gear,Polar Sleeping Bag,12,24021.14,8648.99
+2025-01-01,Vestland,Camping gear,Polar Sleeping Bag,11,22029.53,7790.6
+2025-01-01,Rogaland,Camping gear,Polar Sleeping Bag,5,9426.55,3332.04
+2025-01-01,Trøndelag,Camping gear,Polar Sleeping Bag,6,11753.77,4218.15
+2025-01-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,9,17689.48,6354.87
+2025-01-01,Oslo,Camping gear,Leir Camping Stove,28,21970.97,8474.74
+2025-01-01,Vestland,Camping gear,Leir Camping Stove,9,6844.42,2645.95
+2025-01-01,Rogaland,Camping gear,Leir Camping Stove,14,10700.87,4211.49
+2025-01-01,Trøndelag,Camping gear,Leir Camping Stove,11,8738.79,3221.24
+2025-01-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,19,14242.26,5375.2
+2025-01-01,Oslo,Accessories,Merino Wool Beanie,187,55931.99,30239.61
+2025-01-01,Vestland,Accessories,Merino Wool Beanie,114,33741.15,18428.33
+2025-01-01,Rogaland,Accessories,Merino Wool Beanie,111,32996.22,18172.59
+2025-01-01,Trøndelag,Accessories,Merino Wool Beanie,91,26925.54,15395.84
+2025-01-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,150,42240.16,23572.69
+2025-01-01,Oslo,Accessories,Trekking Poles (pair),67,39166.8,19720.57
+2025-01-01,Vestland,Accessories,Trekking Poles (pair),51,30016.04,14880.12
+2025-01-01,Rogaland,Accessories,Trekking Poles (pair),39,23307.34,11650.33
+2025-01-01,Trøndelag,Accessories,Trekking Poles (pair),31,17994.76,9353.13
+2025-01-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),58,34338.76,17192.45
+2025-01-01,Oslo,Accessories,Thermal Bottle 0.75 L,120,41410.59,21608.8
+2025-01-01,Vestland,Accessories,Thermal Bottle 0.75 L,69,23771.47,12504.71
+2025-01-01,Rogaland,Accessories,Thermal Bottle 0.75 L,75,25628.3,13718.45
+2025-01-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,50,17091.38,8807.06
+2025-01-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,88,29498.42,14935.56
+2025-02-01,Oslo,Jackets,Trail Pro Shell Jacket,36,87682.94,39550.41
+2025-02-01,Vestland,Jackets,Trail Pro Shell Jacket,25,61974.54,29237.24
+2025-02-01,Rogaland,Jackets,Trail Pro Shell Jacket,24,58084.98,27276.35
+2025-02-01,Trøndelag,Jackets,Trail Pro Shell Jacket,17,42289.72,19582.97
+2025-02-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,34,83502.0,40844.92
+2025-02-01,Oslo,Jackets,Vidde Down Parka,19,76411.91,36344.12
+2025-02-01,Vestland,Jackets,Vidde Down Parka,17,67728.79,33629.35
+2025-02-01,Rogaland,Jackets,Vidde Down Parka,8,31623.9,15216.96
+2025-02-01,Trøndelag,Jackets,Vidde Down Parka,5,19372.55,9294.89
+2025-02-01,"Online, rest of Norway",Jackets,Vidde Down Parka,9,35847.14,17748.83
+2025-02-01,Oslo,Jackets,Breeze Wind Jacket,28,35887.45,14883.32
+2025-02-01,Vestland,Jackets,Breeze Wind Jacket,11,13963.87,5891.34
+2025-02-01,Rogaland,Jackets,Breeze Wind Jacket,22,28591.26,12142.67
+2025-02-01,Trøndelag,Jackets,Breeze Wind Jacket,11,13858.61,5721.1
+2025-02-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,25,32527.48,13745.74
+2025-02-01,Oslo,Footwear,Fjell GTX Hiking Boot,43,93273.5,37328.63
+2025-02-01,Vestland,Footwear,Fjell GTX Hiking Boot,24,53000.51,21533.07
+2025-02-01,Rogaland,Footwear,Fjell GTX Hiking Boot,21,45435.77,17892.46
+2025-02-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,16,34723.43,13409.06
+2025-02-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,32,70380.2,27962.07
+2025-02-01,Oslo,Footwear,Sti Trail Runner,34,49103.71,17177.01
+2025-02-01,Vestland,Footwear,Sti Trail Runner,20,29631.35,10986.39
+2025-02-01,Rogaland,Footwear,Sti Trail Runner,18,26161.75,9744.37
+2025-02-01,Trøndelag,Footwear,Sti Trail Runner,21,30638.4,11086.47
+2025-02-01,"Online, rest of Norway",Footwear,Sti Trail Runner,30,43574.02,15802.92
+2025-02-01,Oslo,Footwear,Vinter Insulated Boot,21,38809.65,14700.11
+2025-02-01,Vestland,Footwear,Vinter Insulated Boot,17,31963.68,12140.05
+2025-02-01,Rogaland,Footwear,Vinter Insulated Boot,12,22151.64,8404.59
+2025-02-01,Trøndelag,Footwear,Vinter Insulated Boot,11,19893.69,7651.66
+2025-02-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,14,26433.19,10095.75
+2025-02-01,Oslo,Backpacks,Tind 40L Backpack,50,63940.48,29805.92
+2025-02-01,Vestland,Backpacks,Tind 40L Backpack,35,44906.0,21030.64
+2025-02-01,Rogaland,Backpacks,Tind 40L Backpack,20,24445.4,11386.77
+2025-02-01,Trøndelag,Backpacks,Tind 40L Backpack,19,24460.82,11755.66
+2025-02-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,30,38405.73,17432.8
+2025-02-01,Oslo,Backpacks,Dag 22L Daypack,57,39165.53,17761.95
+2025-02-01,Vestland,Backpacks,Dag 22L Daypack,32,22125.42,9645.72
+2025-02-01,Rogaland,Backpacks,Dag 22L Daypack,30,20727.83,9336.8
+2025-02-01,Trøndelag,Backpacks,Dag 22L Daypack,24,16308.58,7236.61
+2025-02-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,38,25303.95,11010.67
+2025-02-01,Oslo,Backpacks,Ekspedisjon 65L Pack,11,24433.15,10447.09
+2025-02-01,Vestland,Backpacks,Ekspedisjon 65L Pack,6,13780.07,5969.04
+2025-02-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,10,23095.94,10151.5
+2025-02-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,7,15952.32,6765.18
+2025-02-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,9,20676.53,8906.75
+2025-02-01,Oslo,Camping gear,Lofoten 2-person Tent,4,17568.83,5801.33
+2025-02-01,Vestland,Camping gear,Lofoten 2-person Tent,4,17481.53,5861.41
+2025-02-01,Rogaland,Camping gear,Lofoten 2-person Tent,1,4422.12,1469.75
+2025-02-01,Trøndelag,Camping gear,Lofoten 2-person Tent,3,13228.67,4361.2
+2025-02-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,6,26371.87,8531.44
+2025-02-01,Oslo,Camping gear,Polar Sleeping Bag,9,17659.64,6447.78
+2025-02-01,Vestland,Camping gear,Polar Sleeping Bag,6,11568.6,4164.6
+2025-02-01,Rogaland,Camping gear,Polar Sleeping Bag,3,5820.21,2052.45
+2025-02-01,Trøndelag,Camping gear,Polar Sleeping Bag,3,5910.06,2092.87
+2025-02-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,10,19628.21,6966.13
+2025-02-01,Oslo,Camping gear,Leir Camping Stove,19,14524.18,5482.98
+2025-02-01,Vestland,Camping gear,Leir Camping Stove,14,11193.5,4294.35
+2025-02-01,Rogaland,Camping gear,Leir Camping Stove,12,9391.32,3501.85
+2025-02-01,Trøndelag,Camping gear,Leir Camping Stove,11,8741.35,3209.98
+2025-02-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,23,17765.95,6751.35
+2025-02-01,Oslo,Accessories,Merino Wool Beanie,147,44397.84,24741.86
+2025-02-01,Vestland,Accessories,Merino Wool Beanie,89,26530.43,14409.6
+2025-02-01,Rogaland,Accessories,Merino Wool Beanie,80,23731.15,12815.84
+2025-02-01,Trøndelag,Accessories,Merino Wool Beanie,63,18320.46,10281.07
+2025-02-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,129,38107.83,20778.23
+2025-02-01,Oslo,Accessories,Trekking Poles (pair),50,30271.09,14608.59
+2025-02-01,Vestland,Accessories,Trekking Poles (pair),41,24268.67,12119.7
+2025-02-01,Rogaland,Accessories,Trekking Poles (pair),27,16154.12,8076.81
+2025-02-01,Trøndelag,Accessories,Trekking Poles (pair),27,16027.92,8095.92
+2025-02-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),53,32096.63,16349.05
+2025-02-01,Oslo,Accessories,Thermal Bottle 0.75 L,92,31472.9,16294.02
+2025-02-01,Vestland,Accessories,Thermal Bottle 0.75 L,49,16674.9,8464.89
+2025-02-01,Rogaland,Accessories,Thermal Bottle 0.75 L,48,16197.75,8254.28
+2025-02-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,32,11114.51,5865.11
+2025-02-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,71,24720.09,12670.89
+2025-03-01,Oslo,Jackets,Trail Pro Shell Jacket,44,109950.29,49633.06
+2025-03-01,Vestland,Jackets,Trail Pro Shell Jacket,32,80067.64,37923.18
+2025-03-01,Rogaland,Jackets,Trail Pro Shell Jacket,29,71850.2,33559.04
+2025-03-01,Trøndelag,Jackets,Trail Pro Shell Jacket,27,65960.29,32269.18
+2025-03-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,38,92339.33,43690.99
+2025-03-01,Oslo,Jackets,Vidde Down Parka,27,107887.91,53734.42
+2025-03-01,Vestland,Jackets,Vidde Down Parka,10,41455.75,20741.74
+2025-03-01,Rogaland,Jackets,Vidde Down Parka,12,47301.37,23838.85
+2025-03-01,Trøndelag,Jackets,Vidde Down Parka,8,32022.84,15847.2
+2025-03-01,"Online, rest of Norway",Jackets,Vidde Down Parka,20,78825.95,37460.48
+2025-03-01,Oslo,Jackets,Breeze Wind Jacket,33,41628.23,17788.95
+2025-03-01,Vestland,Jackets,Breeze Wind Jacket,19,24471.56,10142.15
+2025-03-01,Rogaland,Jackets,Breeze Wind Jacket,15,19005.49,7912.05
+2025-03-01,Trøndelag,Jackets,Breeze Wind Jacket,18,23109.89,9513.04
+2025-03-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,30,38514.39,15870.35
+2025-03-01,Oslo,Footwear,Fjell GTX Hiking Boot,36,80140.32,32364.07
+2025-03-01,Vestland,Footwear,Fjell GTX Hiking Boot,41,92173.06,36944.75
+2025-03-01,Rogaland,Footwear,Fjell GTX Hiking Boot,25,54134.4,21922.08
+2025-03-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,20,44544.61,17865.81
+2025-03-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,31,67911.04,26630.66
+2025-03-01,Oslo,Footwear,Sti Trail Runner,40,59946.26,21908.26
+2025-03-01,Vestland,Footwear,Sti Trail Runner,28,40303.32,14319.16
+2025-03-01,Rogaland,Footwear,Sti Trail Runner,27,40805.54,15284.23
+2025-03-01,Trøndelag,Footwear,Sti Trail Runner,17,25278.06,9170.65
+2025-03-01,"Online, rest of Norway",Footwear,Sti Trail Runner,39,58994.42,21706.28
+2025-03-01,Oslo,Footwear,Vinter Insulated Boot,23,43602.73,16673.41
+2025-03-01,Vestland,Footwear,Vinter Insulated Boot,15,27174.07,10309.54
+2025-03-01,Rogaland,Footwear,Vinter Insulated Boot,14,26167.45,9831.31
+2025-03-01,Trøndelag,Footwear,Vinter Insulated Boot,13,23998.68,9118.62
+2025-03-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,21,39234.33,14781.04
+2025-03-01,Oslo,Backpacks,Tind 40L Backpack,60,76742.54,37456.66
+2025-03-01,Vestland,Backpacks,Tind 40L Backpack,30,39470.89,18347.25
+2025-03-01,Rogaland,Backpacks,Tind 40L Backpack,36,47213.83,22523.45
+2025-03-01,Trøndelag,Backpacks,Tind 40L Backpack,17,21998.63,10336.65
+2025-03-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,47,59693.61,27915.28
+2025-03-01,Oslo,Backpacks,Dag 22L Daypack,73,49321.93,21898.08
+2025-03-01,Vestland,Backpacks,Dag 22L Daypack,42,29180.94,12802.65
+2025-03-01,Rogaland,Backpacks,Dag 22L Daypack,32,21755.58,10104.15
+2025-03-01,Trøndelag,Backpacks,Dag 22L Daypack,28,18926.28,8375.69
+2025-03-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,45,30928.69,14245.17
+2025-03-01,Oslo,Backpacks,Ekspedisjon 65L Pack,16,36076.66,16105.96
+2025-03-01,Vestland,Backpacks,Ekspedisjon 65L Pack,9,19891.65,8757.71
+2025-03-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,11,24716.78,11077.06
+2025-03-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,7,15816.34,6953.6
+2025-03-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,11,24659.14,10871.49
+2025-03-01,Oslo,Camping gear,Lofoten 2-person Tent,7,30813.47,10152.95
+2025-03-01,Vestland,Camping gear,Lofoten 2-person Tent,1,4442.01,1426.87
+2025-03-01,Rogaland,Camping gear,Lofoten 2-person Tent,7,31000.82,10052.19
+2025-03-01,Trøndelag,Camping gear,Lofoten 2-person Tent,6,27025.08,9017.83
+2025-03-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,4,17991.32,6112.49
+2025-03-01,Oslo,Camping gear,Polar Sleeping Bag,19,37237.32,13277.2
+2025-03-01,Vestland,Camping gear,Polar Sleeping Bag,13,25702.32,9056.46
+2025-03-01,Rogaland,Camping gear,Polar Sleeping Bag,10,19959.03,7043.61
+2025-03-01,Trøndelag,Camping gear,Polar Sleeping Bag,8,15575.36,5578.59
+2025-03-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,16,31237.21,11421.67
+2025-03-01,Oslo,Camping gear,Leir Camping Stove,37,29184.0,11250.34
+2025-03-01,Vestland,Camping gear,Leir Camping Stove,16,12075.65,4488.65
+2025-03-01,Rogaland,Camping gear,Leir Camping Stove,21,16174.18,6083.07
+2025-03-01,Trøndelag,Camping gear,Leir Camping Stove,15,11801.57,4520.69
+2025-03-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,23,18340.02,6754.41
+2025-03-01,Oslo,Accessories,Merino Wool Beanie,131,38512.12,21213.43
+2025-03-01,Vestland,Accessories,Merino Wool Beanie,98,28548.67,15914.81
+2025-03-01,Rogaland,Accessories,Merino Wool Beanie,98,28359.29,15739.61
+2025-03-01,Trøndelag,Accessories,Merino Wool Beanie,57,17021.44,9353.66
+2025-03-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,131,38061.88,20559.62
+2025-03-01,Oslo,Accessories,Trekking Poles (pair),65,37800.17,18950.2
+2025-03-01,Vestland,Accessories,Trekking Poles (pair),46,26754.34,13359.74
+2025-03-01,Rogaland,Accessories,Trekking Poles (pair),30,18050.97,9086.41
+2025-03-01,Trøndelag,Accessories,Trekking Poles (pair),26,15371.26,7771.79
+2025-03-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),36,21389.58,10747.47
+2025-03-01,Oslo,Accessories,Thermal Bottle 0.75 L,75,25359.59,13615.51
+2025-03-01,Vestland,Accessories,Thermal Bottle 0.75 L,48,16235.08,8311.69
+2025-03-01,Rogaland,Accessories,Thermal Bottle 0.75 L,60,20329.45,10545.03
+2025-03-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,40,13738.63,6920.65
+2025-03-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,50,17242.98,9039.02
+2025-04-01,Oslo,Jackets,Trail Pro Shell Jacket,32,79433.2,38455.19
+2025-04-01,Vestland,Jackets,Trail Pro Shell Jacket,19,46922.83,21804.83
+2025-04-01,Rogaland,Jackets,Trail Pro Shell Jacket,27,66921.75,31743.32
+2025-04-01,Trøndelag,Jackets,Trail Pro Shell Jacket,16,38981.12,18426.96
+2025-04-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,34,84252.83,39529.17
+2025-04-01,Oslo,Jackets,Vidde Down Parka,21,83031.82,40872.3
+2025-04-01,Vestland,Jackets,Vidde Down Parka,13,50770.88,24537.86
+2025-04-01,Rogaland,Jackets,Vidde Down Parka,5,19796.45,9828.81
+2025-04-01,Trøndelag,Jackets,Vidde Down Parka,6,23933.12,12177.12
+2025-04-01,"Online, rest of Norway",Jackets,Vidde Down Parka,15,56677.3,28292.88
+2025-04-01,Oslo,Jackets,Breeze Wind Jacket,41,52690.39,22639.32
+2025-04-01,Vestland,Jackets,Breeze Wind Jacket,22,28379.59,12336.55
+2025-04-01,Rogaland,Jackets,Breeze Wind Jacket,25,31122.14,13082.85
+2025-04-01,Trøndelag,Jackets,Breeze Wind Jacket,14,17717.1,7415.51
+2025-04-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,18,22976.49,9682.7
+2025-04-01,Oslo,Footwear,Fjell GTX Hiking Boot,64,138107.43,55559.18
+2025-04-01,Vestland,Footwear,Fjell GTX Hiking Boot,36,78387.4,31238.21
+2025-04-01,Rogaland,Footwear,Fjell GTX Hiking Boot,34,73038.19,29440.9
+2025-04-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,27,58206.35,23045.93
+2025-04-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,44,95679.96,38922.35
+2025-04-01,Oslo,Footwear,Sti Trail Runner,52,76208.56,26954.91
+2025-04-01,Vestland,Footwear,Sti Trail Runner,46,69420.68,25676.75
+2025-04-01,Rogaland,Footwear,Sti Trail Runner,28,42433.93,15168.76
+2025-04-01,Trøndelag,Footwear,Sti Trail Runner,31,46166.04,17351.41
+2025-04-01,"Online, rest of Norway",Footwear,Sti Trail Runner,48,70092.42,24301.15
+2025-04-01,Oslo,Footwear,Vinter Insulated Boot,38,71716.73,27263.43
+2025-04-01,Vestland,Footwear,Vinter Insulated Boot,22,41783.58,16014.54
+2025-04-01,Rogaland,Footwear,Vinter Insulated Boot,18,33858.66,13527.7
+2025-04-01,Trøndelag,Footwear,Vinter Insulated Boot,22,41134.22,15486.39
+2025-04-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,35,65602.95,25326.63
+2025-04-01,Oslo,Backpacks,Tind 40L Backpack,57,72920.85,34406.66
+2025-04-01,Vestland,Backpacks,Tind 40L Backpack,46,59752.7,27333.68
+2025-04-01,Rogaland,Backpacks,Tind 40L Backpack,41,53438.6,25137.43
+2025-04-01,Trøndelag,Backpacks,Tind 40L Backpack,25,32131.3,15301.44
+2025-04-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,47,60697.61,29173.93
+2025-04-01,Oslo,Backpacks,Dag 22L Daypack,76,52301.93,23944.67
+2025-04-01,Vestland,Backpacks,Dag 22L Daypack,72,48593.95,21810.5
+2025-04-01,Rogaland,Backpacks,Dag 22L Daypack,40,27779.17,12787.77
+2025-04-01,Trøndelag,Backpacks,Dag 22L Daypack,38,25601.95,11477.5
+2025-04-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,69,48861.76,22236.88
+2025-04-01,Oslo,Backpacks,Ekspedisjon 65L Pack,27,61075.29,26953.47
+2025-04-01,Vestland,Backpacks,Ekspedisjon 65L Pack,16,36221.15,16291.24
+2025-04-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,7,15888.72,7014.89
+2025-04-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,10,23138.93,10410.53
+2025-04-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,22,50713.09,21870.46
+2025-04-01,Oslo,Camping gear,Lofoten 2-person Tent,11,48678.18,16129.77
+2025-04-01,Vestland,Camping gear,Lofoten 2-person Tent,8,35456.85,11569.16
+2025-04-01,Rogaland,Camping gear,Lofoten 2-person Tent,6,26766.78,8785.51
+2025-04-01,Trøndelag,Camping gear,Lofoten 2-person Tent,4,17713.49,5624.45
+2025-04-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,9,38758.3,13027.21
+2025-04-01,Oslo,Camping gear,Polar Sleeping Bag,24,46211.22,16442.28
+2025-04-01,Vestland,Camping gear,Polar Sleeping Bag,21,41653.76,15426.94
+2025-04-01,Rogaland,Camping gear,Polar Sleeping Bag,15,30194.03,10993.7
+2025-04-01,Trøndelag,Camping gear,Polar Sleeping Bag,13,25020.02,8855.62
+2025-04-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,29,57079.43,21015.81
+2025-04-01,Oslo,Camping gear,Leir Camping Stove,56,44097.74,16553.53
+2025-04-01,Vestland,Camping gear,Leir Camping Stove,32,25524.42,9788.66
+2025-04-01,Rogaland,Camping gear,Leir Camping Stove,35,28392.44,10827.43
+2025-04-01,Trøndelag,Camping gear,Leir Camping Stove,23,18286.14,6878.95
+2025-04-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,43,34211.89,13294.86
+2025-04-01,Oslo,Accessories,Merino Wool Beanie,170,50244.65,28067.05
+2025-04-01,Vestland,Accessories,Merino Wool Beanie,112,34144.9,19116.67
+2025-04-01,Rogaland,Accessories,Merino Wool Beanie,79,23987.15,13720.2
+2025-04-01,Trøndelag,Accessories,Merino Wool Beanie,81,24582.57,13637.71
+2025-04-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,114,33553.69,18394.69
+2025-04-01,Oslo,Accessories,Trekking Poles (pair),53,31294.05,15663.49
+2025-04-01,Vestland,Accessories,Trekking Poles (pair),35,21181.15,10934.66
+2025-04-01,Rogaland,Accessories,Trekking Poles (pair),14,8277.41,4182.41
+2025-04-01,Trøndelag,Accessories,Trekking Poles (pair),27,15928.78,7925.76
+2025-04-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),39,22682.9,11055.77
+2025-04-01,Oslo,Accessories,Thermal Bottle 0.75 L,82,28706.87,15104.09
+2025-04-01,Vestland,Accessories,Thermal Bottle 0.75 L,66,22782.76,11471.67
+2025-04-01,Rogaland,Accessories,Thermal Bottle 0.75 L,45,15685.36,7856.29
+2025-04-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,30,9913.9,5281.49
+2025-04-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,63,21455.02,11390.65
+2025-05-01,Oslo,Jackets,Trail Pro Shell Jacket,38,94623.72,42864.85
+2025-05-01,Vestland,Jackets,Trail Pro Shell Jacket,24,59245.21,27337.52
+2025-05-01,Rogaland,Jackets,Trail Pro Shell Jacket,26,62664.36,30391.74
+2025-05-01,Trøndelag,Jackets,Trail Pro Shell Jacket,11,27611.5,12770.25
+2025-05-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,25,63043.84,29889.88
+2025-05-01,Oslo,Jackets,Vidde Down Parka,18,71003.15,35699.32
+2025-05-01,Vestland,Jackets,Vidde Down Parka,1,3913.24,1896.25
+2025-05-01,Rogaland,Jackets,Vidde Down Parka,4,15962.83,7434.02
+2025-05-01,Trøndelag,Jackets,Vidde Down Parka,7,27499.79,13214.51
+2025-05-01,"Online, rest of Norway",Jackets,Vidde Down Parka,8,32369.61,15925.56
+2025-05-01,Oslo,Jackets,Breeze Wind Jacket,30,38258.2,16346.12
+2025-05-01,Vestland,Jackets,Breeze Wind Jacket,26,33464.27,13772.92
+2025-05-01,Rogaland,Jackets,Breeze Wind Jacket,15,19266.56,7826.42
+2025-05-01,Trøndelag,Jackets,Breeze Wind Jacket,12,15327.04,6325.65
+2025-05-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,24,29915.98,12832.21
+2025-05-01,Oslo,Footwear,Fjell GTX Hiking Boot,68,143449.61,57211.47
+2025-05-01,Vestland,Footwear,Fjell GTX Hiking Boot,36,77227.76,31419.14
+2025-05-01,Rogaland,Footwear,Fjell GTX Hiking Boot,31,67575.26,26867.02
+2025-05-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,26,56810.19,22357.2
+2025-05-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,48,103906.2,40444.95
+2025-05-01,Oslo,Footwear,Sti Trail Runner,67,98680.55,36147.98
+2025-05-01,Vestland,Footwear,Sti Trail Runner,42,61765.08,21909.68
+2025-05-01,Rogaland,Footwear,Sti Trail Runner,30,45586.72,16379.59
+2025-05-01,Trøndelag,Footwear,Sti Trail Runner,29,43178.07,15377.2
+2025-05-01,"Online, rest of Norway",Footwear,Sti Trail Runner,53,79463.42,28308.9
+2025-05-01,Oslo,Footwear,Vinter Insulated Boot,49,92335.42,36240.33
+2025-05-01,Vestland,Footwear,Vinter Insulated Boot,21,39706.07,14740.37
+2025-05-01,Rogaland,Footwear,Vinter Insulated Boot,23,42123.22,16261.48
+2025-05-01,Trøndelag,Footwear,Vinter Insulated Boot,13,23334.9,9231.79
+2025-05-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,28,51185.63,19134.51
+2025-05-01,Oslo,Backpacks,Tind 40L Backpack,82,102876.42,47314.29
+2025-05-01,Vestland,Backpacks,Tind 40L Backpack,41,52905.09,25766.53
+2025-05-01,Rogaland,Backpacks,Tind 40L Backpack,49,61293.04,28614.7
+2025-05-01,Trøndelag,Backpacks,Tind 40L Backpack,42,54448.76,26098.16
+2025-05-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,59,74478.18,34612.74
+2025-05-01,Oslo,Backpacks,Dag 22L Daypack,102,69822.0,31255.1
+2025-05-01,Vestland,Backpacks,Dag 22L Daypack,58,39154.28,17523.01
+2025-05-01,Rogaland,Backpacks,Dag 22L Daypack,53,35790.01,16246.85
+2025-05-01,Trøndelag,Backpacks,Dag 22L Daypack,56,37563.46,16740.22
+2025-05-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,73,49632.34,22206.66
+2025-05-01,Oslo,Backpacks,Ekspedisjon 65L Pack,32,73053.79,32970.4
+2025-05-01,Vestland,Backpacks,Ekspedisjon 65L Pack,23,52248.73,23399.53
+2025-05-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,22,49830.17,21461.06
+2025-05-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,11,25480.94,11587.13
+2025-05-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,16,35998.66,15676.39
+2025-05-01,Oslo,Camping gear,Lofoten 2-person Tent,16,70749.9,23047.86
+2025-05-01,Vestland,Camping gear,Lofoten 2-person Tent,16,70853.87,24206.45
+2025-05-01,Rogaland,Camping gear,Lofoten 2-person Tent,10,44180.56,14277.98
+2025-05-01,Trøndelag,Camping gear,Lofoten 2-person Tent,11,47470.68,15567.13
+2025-05-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,20,89183.74,28978.7
+2025-05-01,Oslo,Camping gear,Polar Sleeping Bag,44,85178.38,30686.57
+2025-05-01,Vestland,Camping gear,Polar Sleeping Bag,28,54804.43,20128.01
+2025-05-01,Rogaland,Camping gear,Polar Sleeping Bag,33,64742.67,23227.37
+2025-05-01,Trøndelag,Camping gear,Polar Sleeping Bag,30,58865.42,20998.4
+2025-05-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,38,75459.59,26758.68
+2025-05-01,Oslo,Camping gear,Leir Camping Stove,75,57868.3,22053.8
+2025-05-01,Vestland,Camping gear,Leir Camping Stove,50,38095.81,14884.86
+2025-05-01,Rogaland,Camping gear,Leir Camping Stove,43,33286.96,12490.81
+2025-05-01,Trøndelag,Camping gear,Leir Camping Stove,30,23344.15,8869.29
+2025-05-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,52,40208.73,15733.16
+2025-05-01,Oslo,Accessories,Merino Wool Beanie,157,46990.34,25857.02
+2025-05-01,Vestland,Accessories,Merino Wool Beanie,93,27892.52,15137.51
+2025-05-01,Rogaland,Accessories,Merino Wool Beanie,77,23083.51,12670.58
+2025-05-01,Trøndelag,Accessories,Merino Wool Beanie,70,20632.03,11308.8
+2025-05-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,117,34328.15,19309.38
+2025-05-01,Oslo,Accessories,Trekking Poles (pair),48,28999.48,14252.35
+2025-05-01,Vestland,Accessories,Trekking Poles (pair),39,23199.56,11537.69
+2025-05-01,Rogaland,Accessories,Trekking Poles (pair),31,18209.82,9144.87
+2025-05-01,Trøndelag,Accessories,Trekking Poles (pair),24,14226.33,6954.63
+2025-05-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),39,23283.91,11566.97
+2025-05-01,Oslo,Accessories,Thermal Bottle 0.75 L,72,24420.68,12807.66
+2025-05-01,Vestland,Accessories,Thermal Bottle 0.75 L,57,19620.46,10278.84
+2025-05-01,Rogaland,Accessories,Thermal Bottle 0.75 L,54,18611.88,9822.11
+2025-05-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,47,15688.14,8249.76
+2025-05-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,76,25774.29,13478.18
+2025-06-01,Oslo,Jackets,Trail Pro Shell Jacket,33,80097.26,37701.61
+2025-06-01,Vestland,Jackets,Trail Pro Shell Jacket,17,42843.81,20178.25
+2025-06-01,Rogaland,Jackets,Trail Pro Shell Jacket,20,47846.0,21924.85
+2025-06-01,Trøndelag,Jackets,Trail Pro Shell Jacket,14,34191.62,16574.83
+2025-06-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,26,62984.41,30189.26
+2025-06-01,Oslo,Jackets,Vidde Down Parka,10,40757.53,19267.48
+2025-06-01,Vestland,Jackets,Vidde Down Parka,7,28386.43,14451.38
+2025-06-01,Rogaland,Jackets,Vidde Down Parka,10,39211.26,19603.68
+2025-06-01,Trøndelag,Jackets,Vidde Down Parka,2,7865.08,3716.4
+2025-06-01,"Online, rest of Norway",Jackets,Vidde Down Parka,9,34987.96,17551.57
+2025-06-01,Oslo,Jackets,Breeze Wind Jacket,28,36091.61,15161.18
+2025-06-01,Vestland,Jackets,Breeze Wind Jacket,11,14489.08,6014.87
+2025-06-01,Rogaland,Jackets,Breeze Wind Jacket,10,12922.56,5507.17
+2025-06-01,Trøndelag,Jackets,Breeze Wind Jacket,3,3892.67,1695.3
+2025-06-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,11,14411.15,5931.12
+2025-06-01,Oslo,Footwear,Fjell GTX Hiking Boot,40,87508.51,36487.81
+2025-06-01,Vestland,Footwear,Fjell GTX Hiking Boot,39,83641.3,33552.41
+2025-06-01,Rogaland,Footwear,Fjell GTX Hiking Boot,29,63151.11,25231.37
+2025-06-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,31,67926.25,26534.12
+2025-06-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,39,86445.89,33537.46
+2025-06-01,Oslo,Footwear,Sti Trail Runner,50,73630.19,25764.99
+2025-06-01,Vestland,Footwear,Sti Trail Runner,37,55530.82,19484.49
+2025-06-01,Rogaland,Footwear,Sti Trail Runner,51,76444.5,26993.07
+2025-06-01,Trøndelag,Footwear,Sti Trail Runner,29,42632.17,15604.47
+2025-06-01,"Online, rest of Norway",Footwear,Sti Trail Runner,50,72422.5,25734.02
+2025-06-01,Oslo,Footwear,Vinter Insulated Boot,44,82371.29,30673.62
+2025-06-01,Vestland,Footwear,Vinter Insulated Boot,29,54109.53,21339.15
+2025-06-01,Rogaland,Footwear,Vinter Insulated Boot,21,39658.47,14264.69
+2025-06-01,Trøndelag,Footwear,Vinter Insulated Boot,19,36345.82,14077.88
+2025-06-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,29,54009.04,20152.19
+2025-06-01,Oslo,Backpacks,Tind 40L Backpack,92,120215.54,56886.22
+2025-06-01,Vestland,Backpacks,Tind 40L Backpack,53,68788.49,32837.28
+2025-06-01,Rogaland,Backpacks,Tind 40L Backpack,49,62702.11,30200.36
+2025-06-01,Trøndelag,Backpacks,Tind 40L Backpack,37,48481.28,23525.35
+2025-06-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,61,79617.48,38019.25
+2025-06-01,Oslo,Backpacks,Dag 22L Daypack,115,78911.59,35494.8
+2025-06-01,Vestland,Backpacks,Dag 22L Daypack,79,54153.56,24186.14
+2025-06-01,Rogaland,Backpacks,Dag 22L Daypack,74,51276.47,22946.92
+2025-06-01,Trøndelag,Backpacks,Dag 22L Daypack,57,39001.04,18460.83
+2025-06-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,99,67846.33,30630.82
+2025-06-01,Oslo,Backpacks,Ekspedisjon 65L Pack,39,87171.01,38318.64
+2025-06-01,Vestland,Backpacks,Ekspedisjon 65L Pack,15,33855.76,14832.35
+2025-06-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,17,39544.14,17629.84
+2025-06-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,15,33971.01,14717.67
+2025-06-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,24,54341.15,23966.54
+2025-06-01,Oslo,Camping gear,Lofoten 2-person Tent,32,144065.08,47970.52
+2025-06-01,Vestland,Camping gear,Lofoten 2-person Tent,16,72671.09,25324.46
+2025-06-01,Rogaland,Camping gear,Lofoten 2-person Tent,13,58620.89,19128.53
+2025-06-01,Trøndelag,Camping gear,Lofoten 2-person Tent,7,31288.22,10190.49
+2025-06-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,19,84225.97,26723.08
+2025-06-01,Oslo,Camping gear,Polar Sleeping Bag,65,126231.44,45819.97
+2025-06-01,Vestland,Camping gear,Polar Sleeping Bag,46,91624.02,33691.77
+2025-06-01,Rogaland,Camping gear,Polar Sleeping Bag,39,77233.92,28511.03
+2025-06-01,Trøndelag,Camping gear,Polar Sleeping Bag,19,37232.32,13712.64
+2025-06-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,34,65761.42,23563.18
+2025-06-01,Oslo,Camping gear,Leir Camping Stove,98,77369.15,29799.77
+2025-06-01,Vestland,Camping gear,Leir Camping Stove,73,57023.77,21655.85
+2025-06-01,Rogaland,Camping gear,Leir Camping Stove,65,50053.86,19022.58
+2025-06-01,Trøndelag,Camping gear,Leir Camping Stove,42,32764.29,12286.66
+2025-06-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,62,48283.76,18181.52
+2025-06-01,Oslo,Accessories,Merino Wool Beanie,143,41165.29,22849.91
+2025-06-01,Vestland,Accessories,Merino Wool Beanie,101,30151.98,16971.67
+2025-06-01,Rogaland,Accessories,Merino Wool Beanie,124,35978.19,19508.92
+2025-06-01,Trøndelag,Accessories,Merino Wool Beanie,64,18597.01,10134.61
+2025-06-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,99,29508.98,15597.28
+2025-06-01,Oslo,Accessories,Trekking Poles (pair),60,35787.6,17843.08
+2025-06-01,Vestland,Accessories,Trekking Poles (pair),46,27382.16,13513.91
+2025-06-01,Rogaland,Accessories,Trekking Poles (pair),41,24944.31,12668.3
+2025-06-01,Trøndelag,Accessories,Trekking Poles (pair),26,15284.01,7606.03
+2025-06-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),45,27191.36,13835.88
+2025-06-01,Oslo,Accessories,Thermal Bottle 0.75 L,85,29451.72,15535.38
+2025-06-01,Vestland,Accessories,Thermal Bottle 0.75 L,55,18806.97,9290.66
+2025-06-01,Rogaland,Accessories,Thermal Bottle 0.75 L,57,19701.58,10589.81
+2025-06-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,27,9318.45,4952.6
+2025-06-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,73,24782.35,13252.53
+2025-07-01,Oslo,Jackets,Trail Pro Shell Jacket,34,83614.35,39699.32
+2025-07-01,Vestland,Jackets,Trail Pro Shell Jacket,24,58528.32,27694.8
+2025-07-01,Rogaland,Jackets,Trail Pro Shell Jacket,16,38603.3,18171.72
+2025-07-01,Trøndelag,Jackets,Trail Pro Shell Jacket,13,31907.68,14826.55
+2025-07-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,20,49287.09,22800.65
+2025-07-01,Oslo,Jackets,Vidde Down Parka,14,53848.3,26818.08
+2025-07-01,Vestland,Jackets,Vidde Down Parka,6,24078.76,11371.38
+2025-07-01,Rogaland,Jackets,Vidde Down Parka,7,27585.84,13270.8
+2025-07-01,Trøndelag,Jackets,Vidde Down Parka,7,27463.95,13604.85
+2025-07-01,"Online, rest of Norway",Jackets,Vidde Down Parka,10,39325.51,19438.67
+2025-07-01,Oslo,Jackets,Breeze Wind Jacket,16,20263.89,8325.77
+2025-07-01,Vestland,Jackets,Breeze Wind Jacket,16,20318.53,8695.87
+2025-07-01,Rogaland,Jackets,Breeze Wind Jacket,16,20002.77,8672.59
+2025-07-01,Trøndelag,Jackets,Breeze Wind Jacket,8,10133.21,4226.69
+2025-07-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,20,25996.47,10830.11
+2025-07-01,Oslo,Footwear,Fjell GTX Hiking Boot,50,106678.11,41692.96
+2025-07-01,Vestland,Footwear,Fjell GTX Hiking Boot,33,69389.98,27730.26
+2025-07-01,Rogaland,Footwear,Fjell GTX Hiking Boot,33,70856.88,27550.93
+2025-07-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,18,39671.71,15800.9
+2025-07-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,41,90099.56,35967.38
+2025-07-01,Oslo,Footwear,Sti Trail Runner,64,95218.38,34742.16
+2025-07-01,Vestland,Footwear,Sti Trail Runner,43,62808.68,22157.16
+2025-07-01,Rogaland,Footwear,Sti Trail Runner,39,56802.17,21054.16
+2025-07-01,Trøndelag,Footwear,Sti Trail Runner,24,35213.05,12844.2
+2025-07-01,"Online, rest of Norway",Footwear,Sti Trail Runner,50,74503.64,26744.08
+2025-07-01,Oslo,Footwear,Vinter Insulated Boot,35,65384.05,25088.89
+2025-07-01,Vestland,Footwear,Vinter Insulated Boot,21,39805.97,15008.95
+2025-07-01,Rogaland,Footwear,Vinter Insulated Boot,24,44633.62,16746.2
+2025-07-01,Trøndelag,Footwear,Vinter Insulated Boot,9,17289.93,6386.42
+2025-07-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,30,56124.79,21214.81
+2025-07-01,Oslo,Backpacks,Tind 40L Backpack,101,127373.72,59752.13
+2025-07-01,Vestland,Backpacks,Tind 40L Backpack,51,63930.87,30970.51
+2025-07-01,Rogaland,Backpacks,Tind 40L Backpack,51,63318.9,29375.41
+2025-07-01,Trøndelag,Backpacks,Tind 40L Backpack,40,51640.74,24088.92
+2025-07-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,59,75379.12,36789.27
+2025-07-01,Oslo,Backpacks,Dag 22L Daypack,125,83269.84,38610.64
+2025-07-01,Vestland,Backpacks,Dag 22L Daypack,101,68819.94,31347.77
+2025-07-01,Rogaland,Backpacks,Dag 22L Daypack,64,44429.65,19689.85
+2025-07-01,Trøndelag,Backpacks,Dag 22L Daypack,76,52164.6,23257.17
+2025-07-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,97,66474.05,29939.76
+2025-07-01,Oslo,Backpacks,Ekspedisjon 65L Pack,21,47678.84,20720.08
+2025-07-01,Vestland,Backpacks,Ekspedisjon 65L Pack,22,51654.1,23209.23
+2025-07-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,18,39534.82,16505.49
+2025-07-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,21,47406.16,20944.5
+2025-07-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,24,54713.47,24080.85
+2025-07-01,Oslo,Camping gear,Lofoten 2-person Tent,27,122510.43,40344.75
+2025-07-01,Vestland,Camping gear,Lofoten 2-person Tent,21,94362.16,31102.35
+2025-07-01,Rogaland,Camping gear,Lofoten 2-person Tent,16,70746.47,24227.58
+2025-07-01,Trøndelag,Camping gear,Lofoten 2-person Tent,9,39722.24,13111.33
+2025-07-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,16,73540.05,24500.36
+2025-07-01,Oslo,Camping gear,Polar Sleeping Bag,63,127007.39,45792.44
+2025-07-01,Vestland,Camping gear,Polar Sleeping Bag,51,99504.71,35926.92
+2025-07-01,Rogaland,Camping gear,Polar Sleeping Bag,33,64771.81,23254.33
+2025-07-01,Trøndelag,Camping gear,Polar Sleeping Bag,25,49223.45,17763.4
+2025-07-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,54,107628.39,38453.04
+2025-07-01,Oslo,Camping gear,Leir Camping Stove,91,70989.42,26420.0
+2025-07-01,Vestland,Camping gear,Leir Camping Stove,64,49210.91,18560.09
+2025-07-01,Rogaland,Camping gear,Leir Camping Stove,58,45269.56,16909.92
+2025-07-01,Trøndelag,Camping gear,Leir Camping Stove,42,32217.28,11989.51
+2025-07-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,86,68009.36,25313.2
+2025-07-01,Oslo,Accessories,Merino Wool Beanie,156,47810.82,26627.5
+2025-07-01,Vestland,Accessories,Merino Wool Beanie,89,27199.48,14472.13
+2025-07-01,Rogaland,Accessories,Merino Wool Beanie,100,29392.25,16058.15
+2025-07-01,Trøndelag,Accessories,Merino Wool Beanie,67,19384.61,10618.85
+2025-07-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,110,32048.52,17151.23
+2025-07-01,Oslo,Accessories,Trekking Poles (pair),50,29726.57,14446.68
+2025-07-01,Vestland,Accessories,Trekking Poles (pair),33,19614.88,10090.11
+2025-07-01,Rogaland,Accessories,Trekking Poles (pair),36,21154.7,10536.62
+2025-07-01,Trøndelag,Accessories,Trekking Poles (pair),23,13204.52,6528.19
+2025-07-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),40,24145.77,12545.05
+2025-07-01,Oslo,Accessories,Thermal Bottle 0.75 L,83,29480.24,15621.35
+2025-07-01,Vestland,Accessories,Thermal Bottle 0.75 L,57,19669.55,10159.06
+2025-07-01,Rogaland,Accessories,Thermal Bottle 0.75 L,48,16525.45,8188.46
+2025-07-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,44,15300.26,8188.1
+2025-07-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,74,25061.59,13656.88
+2025-08-01,Oslo,Jackets,Trail Pro Shell Jacket,39,98197.99,45074.34
+2025-08-01,Vestland,Jackets,Trail Pro Shell Jacket,28,66989.35,31837.91
+2025-08-01,Rogaland,Jackets,Trail Pro Shell Jacket,20,48341.03,22225.96
+2025-08-01,Trøndelag,Jackets,Trail Pro Shell Jacket,20,49836.17,23112.43
+2025-08-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,36,89151.61,41668.83
+2025-08-01,Oslo,Jackets,Vidde Down Parka,18,72248.12,35182.02
+2025-08-01,Vestland,Jackets,Vidde Down Parka,10,39764.38,18915.31
+2025-08-01,Rogaland,Jackets,Vidde Down Parka,16,62960.31,30380.98
+2025-08-01,Trøndelag,Jackets,Vidde Down Parka,6,23539.34,11443.55
+2025-08-01,"Online, rest of Norway",Jackets,Vidde Down Parka,11,44417.16,21976.92
+2025-08-01,Oslo,Jackets,Breeze Wind Jacket,47,60102.36,25856.26
+2025-08-01,Vestland,Jackets,Breeze Wind Jacket,24,29920.76,12577.24
+2025-08-01,Rogaland,Jackets,Breeze Wind Jacket,18,23153.85,9689.52
+2025-08-01,Trøndelag,Jackets,Breeze Wind Jacket,16,20293.12,8444.76
+2025-08-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,27,34023.82,14603.85
+2025-08-01,Oslo,Footwear,Fjell GTX Hiking Boot,52,114676.98,43896.29
+2025-08-01,Vestland,Footwear,Fjell GTX Hiking Boot,25,54287.84,21963.32
+2025-08-01,Rogaland,Footwear,Fjell GTX Hiking Boot,20,44004.11,17784.37
+2025-08-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,17,35806.77,15070.67
+2025-08-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,41,88875.03,36304.45
+2025-08-01,Oslo,Footwear,Sti Trail Runner,62,91042.91,33810.5
+2025-08-01,Vestland,Footwear,Sti Trail Runner,41,58419.73,20995.11
+2025-08-01,Rogaland,Footwear,Sti Trail Runner,26,38899.06,13901.18
+2025-08-01,Trøndelag,Footwear,Sti Trail Runner,24,34134.21,12433.16
+2025-08-01,"Online, rest of Norway",Footwear,Sti Trail Runner,26,38528.83,14210.88
+2025-08-01,Oslo,Footwear,Vinter Insulated Boot,41,76565.02,28691.41
+2025-08-01,Vestland,Footwear,Vinter Insulated Boot,13,24293.71,9038.45
+2025-08-01,Rogaland,Footwear,Vinter Insulated Boot,18,33374.79,12766.22
+2025-08-01,Trøndelag,Footwear,Vinter Insulated Boot,12,22423.93,8492.0
+2025-08-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,29,53114.15,20413.38
+2025-08-01,Oslo,Backpacks,Tind 40L Backpack,67,85332.08,40441.73
+2025-08-01,Vestland,Backpacks,Tind 40L Backpack,66,84968.66,39150.97
+2025-08-01,Rogaland,Backpacks,Tind 40L Backpack,41,52479.95,23928.49
+2025-08-01,Trøndelag,Backpacks,Tind 40L Backpack,29,36358.32,16965.32
+2025-08-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,49,62700.47,28499.22
+2025-08-01,Oslo,Backpacks,Dag 22L Daypack,112,77071.43,34410.56
+2025-08-01,Vestland,Backpacks,Dag 22L Daypack,69,46713.31,21028.91
+2025-08-01,Rogaland,Backpacks,Dag 22L Daypack,60,40693.02,18183.16
+2025-08-01,Trøndelag,Backpacks,Dag 22L Daypack,50,33839.77,16231.07
+2025-08-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,76,52613.51,23576.18
+2025-08-01,Oslo,Backpacks,Ekspedisjon 65L Pack,39,89137.27,39983.62
+2025-08-01,Vestland,Backpacks,Ekspedisjon 65L Pack,18,41168.63,18552.28
+2025-08-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,23,52797.06,23329.2
+2025-08-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,18,39993.95,17565.64
+2025-08-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,29,66049.16,29074.01
+2025-08-01,Oslo,Camping gear,Lofoten 2-person Tent,10,44538.89,14295.93
+2025-08-01,Vestland,Camping gear,Lofoten 2-person Tent,13,57679.04,18903.69
+2025-08-01,Rogaland,Camping gear,Lofoten 2-person Tent,12,53220.25,17780.15
+2025-08-01,Trøndelag,Camping gear,Lofoten 2-person Tent,8,35041.16,11431.16
+2025-08-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,21,94755.76,30663.37
+2025-08-01,Oslo,Camping gear,Polar Sleeping Bag,45,87819.01,31495.88
+2025-08-01,Vestland,Camping gear,Polar Sleeping Bag,28,55587.62,20041.0
+2025-08-01,Rogaland,Camping gear,Polar Sleeping Bag,37,74302.65,27158.11
+2025-08-01,Trøndelag,Camping gear,Polar Sleeping Bag,20,39195.37,13791.94
+2025-08-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,29,56257.22,19653.47
+2025-08-01,Oslo,Camping gear,Leir Camping Stove,72,56843.39,21572.17
+2025-08-01,Vestland,Camping gear,Leir Camping Stove,45,34745.04,13233.25
+2025-08-01,Rogaland,Camping gear,Leir Camping Stove,61,46988.22,18183.43
+2025-08-01,Trøndelag,Camping gear,Leir Camping Stove,39,29954.22,11228.31
+2025-08-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,61,48907.99,18600.41
+2025-08-01,Oslo,Accessories,Merino Wool Beanie,150,45128.57,24353.0
+2025-08-01,Vestland,Accessories,Merino Wool Beanie,93,27035.07,15008.07
+2025-08-01,Rogaland,Accessories,Merino Wool Beanie,92,26808.61,14604.9
+2025-08-01,Trøndelag,Accessories,Merino Wool Beanie,73,21629.73,11823.54
+2025-08-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,98,29615.21,15949.16
+2025-08-01,Oslo,Accessories,Trekking Poles (pair),66,39799.26,19732.37
+2025-08-01,Vestland,Accessories,Trekking Poles (pair),39,22897.83,11589.96
+2025-08-01,Rogaland,Accessories,Trekking Poles (pair),28,16739.55,8482.29
+2025-08-01,Trøndelag,Accessories,Trekking Poles (pair),37,21583.3,10664.33
+2025-08-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),33,19333.62,9889.64
+2025-08-01,Oslo,Accessories,Thermal Bottle 0.75 L,110,37065.84,19483.93
+2025-08-01,Vestland,Accessories,Thermal Bottle 0.75 L,65,22234.14,11804.83
+2025-08-01,Rogaland,Accessories,Thermal Bottle 0.75 L,49,16869.18,8840.15
+2025-08-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,39,13419.88,6944.14
+2025-08-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,67,22914.87,11954.79
+2025-09-01,Oslo,Jackets,Trail Pro Shell Jacket,61,150004.38,70438.95
+2025-09-01,Vestland,Jackets,Trail Pro Shell Jacket,36,86200.88,39922.53
+2025-09-01,Rogaland,Jackets,Trail Pro Shell Jacket,48,121232.33,57000.69
+2025-09-01,Trøndelag,Jackets,Trail Pro Shell Jacket,32,78816.16,36143.25
+2025-09-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,43,105480.62,47037.69
+2025-09-01,Oslo,Jackets,Vidde Down Parka,30,120972.67,60074.45
+2025-09-01,Vestland,Jackets,Vidde Down Parka,10,40177.11,19712.21
+2025-09-01,Rogaland,Jackets,Vidde Down Parka,15,60439.02,30620.07
+2025-09-01,Trøndelag,Jackets,Vidde Down Parka,12,46615.75,22279.84
+2025-09-01,"Online, rest of Norway",Jackets,Vidde Down Parka,25,98772.57,48936.98
+2025-09-01,Oslo,Jackets,Breeze Wind Jacket,42,53316.31,22631.29
+2025-09-01,Vestland,Jackets,Breeze Wind Jacket,34,43433.42,18315.26
+2025-09-01,Rogaland,Jackets,Breeze Wind Jacket,42,53306.42,21787.45
+2025-09-01,Trøndelag,Jackets,Breeze Wind Jacket,24,30439.33,12666.24
+2025-09-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,30,38336.62,15959.48
+2025-09-01,Oslo,Footwear,Fjell GTX Hiking Boot,43,94105.24,38159.2
+2025-09-01,Vestland,Footwear,Fjell GTX Hiking Boot,28,59848.04,23841.07
+2025-09-01,Rogaland,Footwear,Fjell GTX Hiking Boot,36,75745.98,29482.44
+2025-09-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,18,38523.84,15433.86
+2025-09-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,25,54093.71,21102.77
+2025-09-01,Oslo,Footwear,Sti Trail Runner,65,96389.38,33768.58
+2025-09-01,Vestland,Footwear,Sti Trail Runner,31,46104.92,16899.05
+2025-09-01,Rogaland,Footwear,Sti Trail Runner,32,47308.93,17558.2
+2025-09-01,Trøndelag,Footwear,Sti Trail Runner,26,39991.62,14318.35
+2025-09-01,"Online, rest of Norway",Footwear,Sti Trail Runner,47,66320.95,23990.58
+2025-09-01,Oslo,Footwear,Vinter Insulated Boot,31,57546.98,22271.82
+2025-09-01,Vestland,Footwear,Vinter Insulated Boot,23,42813.77,15858.03
+2025-09-01,Rogaland,Footwear,Vinter Insulated Boot,24,45260.33,17267.86
+2025-09-01,Trøndelag,Footwear,Vinter Insulated Boot,19,35800.0,13513.98
+2025-09-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,25,46229.05,18041.77
+2025-09-01,Oslo,Backpacks,Tind 40L Backpack,69,86731.03,38981.16
+2025-09-01,Vestland,Backpacks,Tind 40L Backpack,32,40371.78,19420.1
+2025-09-01,Rogaland,Backpacks,Tind 40L Backpack,37,47378.23,22823.32
+2025-09-01,Trøndelag,Backpacks,Tind 40L Backpack,21,25834.32,11873.6
+2025-09-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,49,62224.03,29443.27
+2025-09-01,Oslo,Backpacks,Dag 22L Daypack,77,52043.74,23395.12
+2025-09-01,Vestland,Backpacks,Dag 22L Daypack,39,27056.76,11980.94
+2025-09-01,Rogaland,Backpacks,Dag 22L Daypack,55,37806.24,16876.62
+2025-09-01,Trøndelag,Backpacks,Dag 22L Daypack,31,21421.43,9677.07
+2025-09-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,52,35153.4,16206.41
+2025-09-01,Oslo,Backpacks,Ekspedisjon 65L Pack,16,35929.87,16113.0
+2025-09-01,Vestland,Backpacks,Ekspedisjon 65L Pack,16,34560.66,15087.39
+2025-09-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,20,45988.88,20150.02
+2025-09-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,14,31421.0,13888.97
+2025-09-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,13,29089.56,12607.73
+2025-09-01,Oslo,Camping gear,Lofoten 2-person Tent,15,65385.53,21707.11
+2025-09-01,Vestland,Camping gear,Lofoten 2-person Tent,9,40275.64,13151.43
+2025-09-01,Rogaland,Camping gear,Lofoten 2-person Tent,5,21987.67,7038.52
+2025-09-01,Trøndelag,Camping gear,Lofoten 2-person Tent,5,22144.74,7165.29
+2025-09-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,9,40405.17,13369.42
+2025-09-01,Oslo,Camping gear,Polar Sleeping Bag,25,49346.51,17686.44
+2025-09-01,Vestland,Camping gear,Polar Sleeping Bag,18,35654.77,12941.97
+2025-09-01,Rogaland,Camping gear,Polar Sleeping Bag,12,23094.12,8205.56
+2025-09-01,Trøndelag,Camping gear,Polar Sleeping Bag,17,33758.35,11521.16
+2025-09-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,20,39654.02,14271.41
+2025-09-01,Oslo,Camping gear,Leir Camping Stove,39,30472.84,11891.04
+2025-09-01,Vestland,Camping gear,Leir Camping Stove,31,23560.97,9153.11
+2025-09-01,Rogaland,Camping gear,Leir Camping Stove,24,19332.35,7205.69
+2025-09-01,Trøndelag,Camping gear,Leir Camping Stove,22,17084.06,6486.12
+2025-09-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,27,20750.55,7822.85
+2025-09-01,Oslo,Accessories,Merino Wool Beanie,186,53763.32,30073.39
+2025-09-01,Vestland,Accessories,Merino Wool Beanie,112,33515.6,18371.94
+2025-09-01,Rogaland,Accessories,Merino Wool Beanie,107,31645.41,17376.65
+2025-09-01,Trøndelag,Accessories,Merino Wool Beanie,70,20540.06,10947.96
+2025-09-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,129,38653.22,21150.84
+2025-09-01,Oslo,Accessories,Trekking Poles (pair),59,34822.24,17353.34
+2025-09-01,Vestland,Accessories,Trekking Poles (pair),43,25485.75,12821.5
+2025-09-01,Rogaland,Accessories,Trekking Poles (pair),33,19465.81,9933.03
+2025-09-01,Trøndelag,Accessories,Trekking Poles (pair),27,15882.36,8093.66
+2025-09-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),41,24388.73,12108.01
+2025-09-01,Oslo,Accessories,Thermal Bottle 0.75 L,105,36943.81,18364.75
+2025-09-01,Vestland,Accessories,Thermal Bottle 0.75 L,61,20449.72,9995.45
+2025-09-01,Rogaland,Accessories,Thermal Bottle 0.75 L,54,18627.23,9808.83
+2025-09-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,47,16125.46,8390.87
+2025-09-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,70,24507.98,12585.77
+2025-10-01,Oslo,Jackets,Trail Pro Shell Jacket,95,237932.65,111531.34
+2025-10-01,Vestland,Jackets,Trail Pro Shell Jacket,62,157804.77,74479.28
+2025-10-01,Rogaland,Jackets,Trail Pro Shell Jacket,54,131788.78,61973.72
+2025-10-01,Trøndelag,Jackets,Trail Pro Shell Jacket,38,91760.31,42950.57
+2025-10-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,55,133927.05,62584.28
+2025-10-01,Oslo,Jackets,Vidde Down Parka,21,80511.72,38862.04
+2025-10-01,Vestland,Jackets,Vidde Down Parka,17,67633.34,33310.38
+2025-10-01,Rogaland,Jackets,Vidde Down Parka,31,121489.21,58174.55
+2025-10-01,Trøndelag,Jackets,Vidde Down Parka,18,72101.4,34899.83
+2025-10-01,"Online, rest of Norway",Jackets,Vidde Down Parka,22,87727.21,42547.09
+2025-10-01,Oslo,Jackets,Breeze Wind Jacket,80,101629.37,42762.1
+2025-10-01,Vestland,Jackets,Breeze Wind Jacket,47,58908.97,24462.89
+2025-10-01,Rogaland,Jackets,Breeze Wind Jacket,35,45383.9,19624.7
+2025-10-01,Trøndelag,Jackets,Breeze Wind Jacket,24,31162.83,13060.65
+2025-10-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,41,50657.41,21139.39
+2025-10-01,Oslo,Footwear,Fjell GTX Hiking Boot,46,99473.8,39031.52
+2025-10-01,Vestland,Footwear,Fjell GTX Hiking Boot,32,68289.2,27904.85
+2025-10-01,Rogaland,Footwear,Fjell GTX Hiking Boot,27,59011.52,23322.03
+2025-10-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,22,47993.42,18249.58
+2025-10-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,32,70004.39,27274.6
+2025-10-01,Oslo,Footwear,Sti Trail Runner,56,82793.27,28594.32
+2025-10-01,Vestland,Footwear,Sti Trail Runner,34,50296.41,17910.56
+2025-10-01,Rogaland,Footwear,Sti Trail Runner,33,47931.8,17055.86
+2025-10-01,Trøndelag,Footwear,Sti Trail Runner,27,39780.14,14479.54
+2025-10-01,"Online, rest of Norway",Footwear,Sti Trail Runner,54,79533.38,29335.92
+2025-10-01,Oslo,Footwear,Vinter Insulated Boot,39,74122.77,28114.81
+2025-10-01,Vestland,Footwear,Vinter Insulated Boot,28,51485.74,19539.26
+2025-10-01,Rogaland,Footwear,Vinter Insulated Boot,15,27967.19,10588.26
+2025-10-01,Trøndelag,Footwear,Vinter Insulated Boot,15,27895.61,10503.77
+2025-10-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,37,68227.47,26674.43
+2025-10-01,Oslo,Backpacks,Tind 40L Backpack,60,77728.44,36425.6
+2025-10-01,Vestland,Backpacks,Tind 40L Backpack,33,42678.74,19553.28
+2025-10-01,Rogaland,Backpacks,Tind 40L Backpack,38,48783.24,23144.37
+2025-10-01,Trøndelag,Backpacks,Tind 40L Backpack,26,33551.35,15570.65
+2025-10-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,42,54760.28,25745.96
+2025-10-01,Oslo,Backpacks,Dag 22L Daypack,59,41267.22,18175.78
+2025-10-01,Vestland,Backpacks,Dag 22L Daypack,45,30630.41,14101.32
+2025-10-01,Rogaland,Backpacks,Dag 22L Daypack,37,26088.33,11805.98
+2025-10-01,Trøndelag,Backpacks,Dag 22L Daypack,31,21574.45,9761.7
+2025-10-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,46,30244.84,13558.31
+2025-10-01,Oslo,Backpacks,Ekspedisjon 65L Pack,18,41410.6,18430.81
+2025-10-01,Vestland,Backpacks,Ekspedisjon 65L Pack,11,25150.62,11205.58
+2025-10-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,7,15444.97,6742.99
+2025-10-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,16,36238.05,15765.27
+2025-10-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,13,29084.25,12991.34
+2025-10-01,Oslo,Camping gear,Lofoten 2-person Tent,6,26083.72,8369.59
+2025-10-01,Vestland,Camping gear,Lofoten 2-person Tent,5,21959.39,7054.98
+2025-10-01,Rogaland,Camping gear,Lofoten 2-person Tent,3,13501.57,4551.95
+2025-10-01,Trøndelag,Camping gear,Lofoten 2-person Tent,4,17459.54,5469.37
+2025-10-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,3,13100.91,4281.97
+2025-10-01,Oslo,Camping gear,Polar Sleeping Bag,13,25826.72,9719.66
+2025-10-01,Vestland,Camping gear,Polar Sleeping Bag,11,21539.97,7506.6
+2025-10-01,Rogaland,Camping gear,Polar Sleeping Bag,14,27790.01,10153.6
+2025-10-01,Trøndelag,Camping gear,Polar Sleeping Bag,4,7825.25,2889.08
+2025-10-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,13,25586.96,9269.8
+2025-10-01,Oslo,Camping gear,Leir Camping Stove,32,24958.03,9547.55
+2025-10-01,Vestland,Camping gear,Leir Camping Stove,18,13592.25,5005.8
+2025-10-01,Rogaland,Camping gear,Leir Camping Stove,21,16776.37,6255.92
+2025-10-01,Trøndelag,Camping gear,Leir Camping Stove,11,8488.84,3328.48
+2025-10-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,19,14789.44,5694.03
+2025-10-01,Oslo,Accessories,Merino Wool Beanie,195,59229.99,32178.02
+2025-10-01,Vestland,Accessories,Merino Wool Beanie,140,40731.9,22498.34
+2025-10-01,Rogaland,Accessories,Merino Wool Beanie,126,37481.01,20674.87
+2025-10-01,Trøndelag,Accessories,Merino Wool Beanie,86,25406.02,13870.55
+2025-10-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,155,47737.63,25515.64
+2025-10-01,Oslo,Accessories,Trekking Poles (pair),85,51964.84,25296.42
+2025-10-01,Vestland,Accessories,Trekking Poles (pair),50,29524.45,15121.19
+2025-10-01,Rogaland,Accessories,Trekking Poles (pair),38,21871.53,10957.44
+2025-10-01,Trøndelag,Accessories,Trekking Poles (pair),36,20779.37,10473.81
+2025-10-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),54,31396.14,15431.32
+2025-10-01,Oslo,Accessories,Thermal Bottle 0.75 L,125,42646.73,22841.13
+2025-10-01,Vestland,Accessories,Thermal Bottle 0.75 L,82,28098.64,14339.43
+2025-10-01,Rogaland,Accessories,Thermal Bottle 0.75 L,79,27664.84,14447.54
+2025-10-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,45,15611.52,8205.88
+2025-10-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,97,32651.34,16934.12
+2025-11-01,Oslo,Jackets,Trail Pro Shell Jacket,99,250089.7,116427.66
+2025-11-01,Vestland,Jackets,Trail Pro Shell Jacket,63,150244.41,69877.5
+2025-11-01,Rogaland,Jackets,Trail Pro Shell Jacket,53,132596.31,62786.82
+2025-11-01,Trøndelag,Jackets,Trail Pro Shell Jacket,31,77027.71,35974.47
+2025-11-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,62,155727.94,75419.45
+2025-11-01,Oslo,Jackets,Vidde Down Parka,34,132242.35,66453.68
+2025-11-01,Vestland,Jackets,Vidde Down Parka,18,70362.44,34771.11
+2025-11-01,Rogaland,Jackets,Vidde Down Parka,19,75828.23,36128.83
+2025-11-01,Trøndelag,Jackets,Vidde Down Parka,21,84713.95,42022.18
+2025-11-01,"Online, rest of Norway",Jackets,Vidde Down Parka,28,108491.63,52951.69
+2025-11-01,Oslo,Jackets,Breeze Wind Jacket,76,97922.19,41503.27
+2025-11-01,Vestland,Jackets,Breeze Wind Jacket,61,82702.81,35215.41
+2025-11-01,Rogaland,Jackets,Breeze Wind Jacket,43,54428.31,22852.54
+2025-11-01,Trøndelag,Jackets,Breeze Wind Jacket,31,39468.92,16176.36
+2025-11-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,57,70808.25,30163.21
+2025-11-01,Oslo,Footwear,Fjell GTX Hiking Boot,56,119792.83,47811.28
+2025-11-01,Vestland,Footwear,Fjell GTX Hiking Boot,31,66306.01,26908.13
+2025-11-01,Rogaland,Footwear,Fjell GTX Hiking Boot,31,66015.82,25692.12
+2025-11-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,22,48349.28,19133.71
+2025-11-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,52,110019.32,45109.21
+2025-11-01,Oslo,Footwear,Sti Trail Runner,61,88970.09,31506.18
+2025-11-01,Vestland,Footwear,Sti Trail Runner,41,59543.57,21712.09
+2025-11-01,Rogaland,Footwear,Sti Trail Runner,38,56605.54,20563.15
+2025-11-01,Trøndelag,Footwear,Sti Trail Runner,30,44950.15,16336.46
+2025-11-01,"Online, rest of Norway",Footwear,Sti Trail Runner,42,61800.08,22230.68
+2025-11-01,Oslo,Footwear,Vinter Insulated Boot,30,56649.31,21695.62
+2025-11-01,Vestland,Footwear,Vinter Insulated Boot,20,36810.21,13933.7
+2025-11-01,Rogaland,Footwear,Vinter Insulated Boot,16,30154.08,11413.09
+2025-11-01,Trøndelag,Footwear,Vinter Insulated Boot,23,42240.27,16278.07
+2025-11-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,33,60409.12,22766.52
+2025-11-01,Oslo,Backpacks,Tind 40L Backpack,52,66034.05,30972.54
+2025-11-01,Vestland,Backpacks,Tind 40L Backpack,34,42937.26,20116.07
+2025-11-01,Rogaland,Backpacks,Tind 40L Backpack,28,35865.48,16312.78
+2025-11-01,Trøndelag,Backpacks,Tind 40L Backpack,20,25477.13,11683.66
+2025-11-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,40,51574.71,24337.1
+2025-11-01,Oslo,Backpacks,Dag 22L Daypack,64,44071.37,19610.53
+2025-11-01,Vestland,Backpacks,Dag 22L Daypack,44,30114.16,13200.91
+2025-11-01,Rogaland,Backpacks,Dag 22L Daypack,44,30209.16,13131.27
+2025-11-01,Trøndelag,Backpacks,Dag 22L Daypack,35,23478.84,10581.49
+2025-11-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,54,36865.35,16539.08
+2025-11-01,Oslo,Backpacks,Ekspedisjon 65L Pack,15,33308.37,14775.38
+2025-11-01,Vestland,Backpacks,Ekspedisjon 65L Pack,16,36720.69,16326.78
+2025-11-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,14,31276.87,14250.73
+2025-11-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,6,13573.87,6002.13
+2025-11-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,16,36085.6,15742.3
+2025-11-01,Oslo,Camping gear,Lofoten 2-person Tent,7,30898.88,10242.38
+2025-11-01,Vestland,Camping gear,Lofoten 2-person Tent,3,13365.67,4351.62
+2025-11-01,Rogaland,Camping gear,Lofoten 2-person Tent,2,8857.03,2931.9
+2025-11-01,Trøndelag,Camping gear,Lofoten 2-person Tent,7,31113.98,10320.83
+2025-11-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,4,17895.86,6230.87
+2025-11-01,Oslo,Camping gear,Polar Sleeping Bag,20,39191.13,13828.63
+2025-11-01,Vestland,Camping gear,Polar Sleeping Bag,14,27473.32,9816.45
+2025-11-01,Rogaland,Camping gear,Polar Sleeping Bag,12,23600.25,8450.79
+2025-11-01,Trøndelag,Camping gear,Polar Sleeping Bag,9,17581.17,6330.28
+2025-11-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,21,41939.71,14854.62
+2025-11-01,Oslo,Camping gear,Leir Camping Stove,21,16535.89,5977.73
+2025-11-01,Vestland,Camping gear,Leir Camping Stove,16,12147.21,4678.23
+2025-11-01,Rogaland,Camping gear,Leir Camping Stove,18,14017.86,5303.48
+2025-11-01,Trøndelag,Camping gear,Leir Camping Stove,18,14557.83,5779.58
+2025-11-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,30,23418.12,9106.51
+2025-11-01,Oslo,Accessories,Merino Wool Beanie,266,77977.61,41325.59
+2025-11-01,Vestland,Accessories,Merino Wool Beanie,180,53485.7,28920.75
+2025-11-01,Rogaland,Accessories,Merino Wool Beanie,163,47971.48,26826.62
+2025-11-01,Trøndelag,Accessories,Merino Wool Beanie,127,36183.3,19031.41
+2025-11-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,220,65176.05,35256.2
+2025-11-01,Oslo,Accessories,Trekking Poles (pair),112,65848.87,33080.92
+2025-11-01,Vestland,Accessories,Trekking Poles (pair),72,42026.24,21202.96
+2025-11-01,Rogaland,Accessories,Trekking Poles (pair),60,36064.82,17386.12
+2025-11-01,Trøndelag,Accessories,Trekking Poles (pair),44,26852.2,12899.81
+2025-11-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),63,36883.74,18363.36
+2025-11-01,Oslo,Accessories,Thermal Bottle 0.75 L,156,55171.17,28946.33
+2025-11-01,Vestland,Accessories,Thermal Bottle 0.75 L,84,28673.1,14842.7
+2025-11-01,Rogaland,Accessories,Thermal Bottle 0.75 L,89,30548.37,15671.72
+2025-11-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,73,25658.76,13237.75
+2025-11-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,105,36673.65,19112.23
+2025-12-01,Oslo,Jackets,Trail Pro Shell Jacket,94,231264.96,110410.85
+2025-12-01,Vestland,Jackets,Trail Pro Shell Jacket,80,194300.4,92518.15
+2025-12-01,Rogaland,Jackets,Trail Pro Shell Jacket,69,169520.38,81305.37
+2025-12-01,Trøndelag,Jackets,Trail Pro Shell Jacket,35,85727.51,40479.23
+2025-12-01,"Online, rest of Norway",Jackets,Trail Pro Shell Jacket,98,243416.53,114511.85
+2025-12-01,Oslo,Jackets,Vidde Down Parka,51,205074.47,100646.07
+2025-12-01,Vestland,Jackets,Vidde Down Parka,30,118114.4,58234.19
+2025-12-01,Rogaland,Jackets,Vidde Down Parka,25,98557.17,47339.72
+2025-12-01,Trøndelag,Jackets,Vidde Down Parka,18,71348.53,35456.38
+2025-12-01,"Online, rest of Norway",Jackets,Vidde Down Parka,28,113971.16,57036.12
+2025-12-01,Oslo,Jackets,Breeze Wind Jacket,90,115766.06,48351.15
+2025-12-01,Vestland,Jackets,Breeze Wind Jacket,73,93727.69,38945.69
+2025-12-01,Rogaland,Jackets,Breeze Wind Jacket,57,72466.87,30871.29
+2025-12-01,Trøndelag,Jackets,Breeze Wind Jacket,34,43771.57,18533.03
+2025-12-01,"Online, rest of Norway",Jackets,Breeze Wind Jacket,73,95336.39,40205.57
+2025-12-01,Oslo,Footwear,Fjell GTX Hiking Boot,64,143057.46,55749.62
+2025-12-01,Vestland,Footwear,Fjell GTX Hiking Boot,32,69439.96,27883.89
+2025-12-01,Rogaland,Footwear,Fjell GTX Hiking Boot,43,95012.07,37915.4
+2025-12-01,Trøndelag,Footwear,Fjell GTX Hiking Boot,27,60361.45,24365.86
+2025-12-01,"Online, rest of Norway",Footwear,Fjell GTX Hiking Boot,37,79868.17,32576.4
+2025-12-01,Oslo,Footwear,Sti Trail Runner,66,98509.17,35488.23
+2025-12-01,Vestland,Footwear,Sti Trail Runner,28,40353.38,14199.83
+2025-12-01,Rogaland,Footwear,Sti Trail Runner,33,47543.34,17102.82
+2025-12-01,Trøndelag,Footwear,Sti Trail Runner,20,29202.97,10707.91
+2025-12-01,"Online, rest of Norway",Footwear,Sti Trail Runner,53,78136.89,28183.36
+2025-12-01,Oslo,Footwear,Vinter Insulated Boot,42,78002.27,30560.36
+2025-12-01,Vestland,Footwear,Vinter Insulated Boot,30,58246.43,22047.43
+2025-12-01,Rogaland,Footwear,Vinter Insulated Boot,23,43495.67,16624.05
+2025-12-01,Trøndelag,Footwear,Vinter Insulated Boot,22,40772.82,15594.54
+2025-12-01,"Online, rest of Norway",Footwear,Vinter Insulated Boot,38,71392.67,27593.57
+2025-12-01,Oslo,Backpacks,Tind 40L Backpack,80,103602.7,50141.57
+2025-12-01,Vestland,Backpacks,Tind 40L Backpack,44,58052.71,27337.3
+2025-12-01,Rogaland,Backpacks,Tind 40L Backpack,35,44841.47,20946.72
+2025-12-01,Trøndelag,Backpacks,Tind 40L Backpack,25,31397.45,14652.78
+2025-12-01,"Online, rest of Norway",Backpacks,Tind 40L Backpack,56,70928.93,34009.69
+2025-12-01,Oslo,Backpacks,Dag 22L Daypack,74,49819.2,22474.31
+2025-12-01,Vestland,Backpacks,Dag 22L Daypack,65,43883.29,19326.84
+2025-12-01,Rogaland,Backpacks,Dag 22L Daypack,47,32294.15,14008.41
+2025-12-01,Trøndelag,Backpacks,Dag 22L Daypack,36,25212.69,10935.92
+2025-12-01,"Online, rest of Norway",Backpacks,Dag 22L Daypack,72,48246.48,21661.65
+2025-12-01,Oslo,Backpacks,Ekspedisjon 65L Pack,30,67220.09,29993.89
+2025-12-01,Vestland,Backpacks,Ekspedisjon 65L Pack,17,38026.61,16757.92
+2025-12-01,Rogaland,Backpacks,Ekspedisjon 65L Pack,13,29374.86,12930.73
+2025-12-01,Trøndelag,Backpacks,Ekspedisjon 65L Pack,8,18046.11,8004.09
+2025-12-01,"Online, rest of Norway",Backpacks,Ekspedisjon 65L Pack,24,53450.13,24366.92
+2025-12-01,Oslo,Camping gear,Lofoten 2-person Tent,9,39670.45,12960.11
+2025-12-01,Vestland,Camping gear,Lofoten 2-person Tent,11,49446.32,16130.46
+2025-12-01,Rogaland,Camping gear,Lofoten 2-person Tent,6,26385.63,8746.5
+2025-12-01,Trøndelag,Camping gear,Lofoten 2-person Tent,8,35357.24,11637.3
+2025-12-01,"Online, rest of Norway",Camping gear,Lofoten 2-person Tent,10,44860.65,15006.68
+2025-12-01,Oslo,Camping gear,Polar Sleeping Bag,17,33568.77,12230.36
+2025-12-01,Vestland,Camping gear,Polar Sleeping Bag,17,33422.51,11974.23
+2025-12-01,Rogaland,Camping gear,Polar Sleeping Bag,20,39427.4,14621.93
+2025-12-01,Trøndelag,Camping gear,Polar Sleeping Bag,18,35331.77,11994.35
+2025-12-01,"Online, rest of Norway",Camping gear,Polar Sleeping Bag,23,45772.13,16938.25
+2025-12-01,Oslo,Camping gear,Leir Camping Stove,48,37652.91,13933.17
+2025-12-01,Vestland,Camping gear,Leir Camping Stove,24,18930.79,7057.42
+2025-12-01,Rogaland,Camping gear,Leir Camping Stove,30,23681.33,9208.86
+2025-12-01,Trøndelag,Camping gear,Leir Camping Stove,18,13772.51,5088.23
+2025-12-01,"Online, rest of Norway",Camping gear,Leir Camping Stove,30,23884.77,8966.91
+2025-12-01,Oslo,Accessories,Merino Wool Beanie,413,123260.31,67145.58
+2025-12-01,Vestland,Accessories,Merino Wool Beanie,295,86498.47,48694.49
+2025-12-01,Rogaland,Accessories,Merino Wool Beanie,242,73163.01,41369.27
+2025-12-01,Trøndelag,Accessories,Merino Wool Beanie,182,55747.4,30898.55
+2025-12-01,"Online, rest of Norway",Accessories,Merino Wool Beanie,301,87412.09,48717.35
+2025-12-01,Oslo,Accessories,Trekking Poles (pair),137,81545.96,40653.64
+2025-12-01,Vestland,Accessories,Trekking Poles (pair),109,65388.52,33668.35
+2025-12-01,Rogaland,Accessories,Trekking Poles (pair),88,52501.81,26255.15
+2025-12-01,Trøndelag,Accessories,Trekking Poles (pair),68,41177.72,20740.27
+2025-12-01,"Online, rest of Norway",Accessories,Trekking Poles (pair),107,65345.92,32216.43
+2025-12-01,Oslo,Accessories,Thermal Bottle 0.75 L,237,81906.15,43625.89
+2025-12-01,Vestland,Accessories,Thermal Bottle 0.75 L,180,63517.08,33058.98
+2025-12-01,Rogaland,Accessories,Thermal Bottle 0.75 L,156,55038.64,28776.72
+2025-12-01,Trøndelag,Accessories,Thermal Bottle 0.75 L,116,39780.73,21082.96
+2025-12-01,"Online, rest of Norway",Accessories,Thermal Bottle 0.75 L,190,63903.27,32082.13
